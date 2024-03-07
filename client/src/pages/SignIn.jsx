@@ -48,10 +48,11 @@ export default function SignIn() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-            <span className='px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white'>
-              Sahand's
-            </span>
-            Blog
+          <span className='text-dark text-3xl'>
+            Jaringan ODHA Berdaya
+          </span>
+
+
           </Link>
           <p className='text-sm mt-5'>
             This is a demo project. You can sign in with your email and password
@@ -91,15 +92,15 @@ export default function SignIn() {
                   <span className='pl-3'>Loading...</span>
                 </>
               ) : (
-                'Sign In'
+                'Masuk'
               )}
             </Button>
             <OAuth />
           </form>
           <div className='flex gap-2 text-sm mt-5'>
-            <span>Dont Have an account?</span>
+            <span>Belum punya akun?</span>
             <Link to='/sign-up' className='text-blue-500'>
-              Sign Up
+              Daftar disini
             </Link>
           </div>
           {errorMessage && (
