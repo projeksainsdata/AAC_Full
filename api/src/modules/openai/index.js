@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const client = new OpenAI({
-  apiKey: import.meta.env.OPENAI_API_KEY,
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 const systemMessage = {
