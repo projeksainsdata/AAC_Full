@@ -1,7 +1,9 @@
 import OpenAI from "openai";
+import dotenv from 'dotenv';
 
+dotenv.config();
 const client = new OpenAI({
-  apiKey: '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',
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 const systemMessage = {
