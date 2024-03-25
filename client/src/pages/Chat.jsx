@@ -22,7 +22,7 @@ const Chat = () => {
   
     const fetchThread = async () => {
       try {
-        const res = await fetch("/thread", {
+        const res = await fetch(`/thread`, {
           method: "GET",
           headers: {
             Accept: "application/json",
@@ -45,7 +45,7 @@ const Chat = () => {
   
       try {
         setLoading(true);
-        const res = await fetch("/message", {
+        const res = await fetch(`/message`, {
           method: "POST",
           headers: {
             Accept: "application/json",
@@ -77,18 +77,18 @@ const Chat = () => {
   
     return (
       <div className="chat-container">
-        <h1 className='text-4x1 text-center pt-5'>Asisten Account Receivable Management</h1>
+        <h1 className='text-4xl text-center pt-5'>Asisten Account Receivable Management</h1>
         <div className="mx-auto my-10 bg-dark shadow-xl rounded-xl w-full max-w-5xl">
-          <div className="chat-messages h-96">
+          <div className="chat-messages h-96 overflow-auto">
             {messages.map((msg, i) => (
               <ChatBubble key={i} message={msg.message} isUser={msg.isUser} />
             ))}
           </div>
           <ChatInput onSubmit={sendMessage} />
+          {loading && <div className="text-center mt-2">Loading...</div>}
         </div>
       </div>
     );
 };
   
 export default Chat;
-  
