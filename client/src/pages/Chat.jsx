@@ -2,13 +2,14 @@ import React, { useState, useEffect } from "react";
 import ChatBubble from "../components/ChatBubble";
 import ChatInput from "../components/ChatInput";
 
-const port = process.env.PORT || 3000;
+
 
 const Chat = () => {
     const [prompt, updatePrompt] = useState("");
     const [loading, setLoading] = useState(false);
     const [messages, setMessages] = useState([]);
     const [threadId, setThreadId] = useState("");
+    const [lastAnswer, setLastAnswer] = useState(""); // Add state for last answer
   
     useEffect(() => {
       if (prompt.trim() === "") {
@@ -65,8 +66,9 @@ const Chat = () => {
         const answer = answerMessages.join("");
         
         // Check if the answer is the same as the last message
-        if (messages.length === 0 || messages[messages.length - 1].message !== answer) {
+        if (answer !== lastAnswer) {
           setMessages((prevMessages) => [...prevMessages, { message: answer, isUser: false }]);
+          setLastAnswer(answer); // Update last answer
         }
       } catch (err) {
         console.error(err);
@@ -83,9 +85,10 @@ const Chat = () => {
             {messages.map((msg, i) => (
               <ChatBubble key={i} message={msg.message} isUser={msg.isUser} />
             ))}
+            {loading && <div className="text-center mt-2">Loading...</div>}
           </div>
           <ChatInput onSubmit={sendMessage} />
-          {loading && <div className="text-center mt-2">Loading...</div>}
+          
         </div>
       </div>
     );
