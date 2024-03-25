@@ -9,7 +9,7 @@ const client = new OpenAI({
 const systemMessage = {
   role: "system",
   content:
-    "Tanya di tentang HIV/AIDS",
+    "Tanya Apa saja tentang Account Receivable Management",
 };
 
 export const getStreamingCompletion = async ({ userPrompt }) => {

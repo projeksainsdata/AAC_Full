@@ -53,8 +53,8 @@ export default function Tanya() {
 
   return (
     <div className="chat-container">
-      <h1 className='text-4x1 text-center pt-5'>Tanya Apapun Pertanyaanmu tentang HIV/AIDS</h1>
-      <strong className="text-center pt-5"> ChatBot Jaringan ODHA Berdaya</strong>
+      <h1 className='text-4x1 text-center pt-5'>Tanya Apapun Pertanyaanmu tentang Account Receivable Management</h1>
+      <strong className="text-center pt-5"> ChatBot Account Receivable Management</strong>
       <div className="mx-auto my-10 bg-dark shadow-xl rounded-xl w-full max-w-5xl">
         <div className="chat-messages h-96">
           {messages.map((msg, i) => (

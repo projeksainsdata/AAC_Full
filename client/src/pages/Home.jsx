@@ -17,10 +17,9 @@ export default function Home() {
   return (
     <div>
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto '>
-        <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to my Blog</h1>
+        <h1 className='text-3xl font-bold lg:text-6xl'>Welcome Account Receivable Management Personal Assistant</h1>
         <p className='text-gray-500 text-xs sm:text-sm'>
-          Here you'll find a variety of articles and tutorials on topics such as
-          web development, software engineering, and programming languages.
+        Aplikasi Asisten Account Receivable Management adalah solusi perangkat lunak yang dirancang untuk membantu perusahaan dalam mengelola dan mengoptimalkan proses manajemen piutang mereka. Aplikasi ini menyediakan fitur-fitur yang memungkinkan perusahaan untuk memantau dan mengelola piutang mereka dengan lebih efisien, termasuk pemantauan status pembayaran, pengiriman pengingat pembayaran kepada pelanggan, dan analisis data untuk mengidentifikasi pola pembayaran pelanggan.
         </p>
         <Link
           to='/search'

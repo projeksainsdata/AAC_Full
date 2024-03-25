@@ -1,0 +1,1418 @@
+ISTILAH	KEPANJANGAN	PENGERTIAN	DEPARTEMEN	CARA PERHITUNGAN DAN KETERANGAN LAINNYA ( JIKA ADA)																			
+234 SC	Siliwangi Club 234 secara definisi umum, dan 234 Soerjosoemarno Clan secara khusus	Organisasi Massa yang berlatar belakang komunitas kepemudaan yang bergerak pada bidang sosial. Organisasi ini merupakan perluasan dari Pemuda Pancasila, dimana 234 SC menaungi anggota-anggota yang kelas menengah keatasnya sedangkan PP berisikan golongan kelas menegah kebawahnya. Petinggi 234 SC diisi oleh kerabat-kerabat Japto Soerjosoemarno. Saat ini organisasi massa ini diketuai oleh Abi Shalom atau lebih dikenal Abi Japto, anak kandung dari Japto Soerjosoemarno.	REMO																				
+2LM	Last Two Month	Status data dua bulan sebelumnya	umum																				
+3LM	Last Three Month	Status data tiga bulan sebelumnya	umum																				
+5C	Character, Capital, Capacity, Collateral, Condition	Metode analisa yang dipakai oleh komite kredit untuk menentukan kelayakan customer untuk menerima pembiayaan dari ACC	Underwriting																				
+A/N	Atas Nama		Sales																				
+AA	Account Acquisition	Merupakan tahapan dan langkah -langkah proses kredit yang dialami oleh customer mulai dari customer berada di dealer sampai dengan adanya kendaraan di terima oleh customer	Branch																				
+AA		Kelas Cabang dengan Saldo AF di atas 60M dan saldo AR di atas 800 M	umum																				
+AAB	Asuransi Astra Buana	Salah satu vendor asuransi yang bekerja sama dengan ACC perihal perlindungan kedit di ACC	Operation																				
+AAB Syariah	Asuransi Astra Buana Syariah	Suatu perusahaan asuransi jiwa yang bekerjasama dengan ACC untuk kontrak syariah	Underwriting																				
+AAF	Astra Auto Finance	Salah satu perusahaan yang dinaungi oleh ACC	umum																				
+AAV	Auto Asset Verification	Proses verifikasi unit kepada customer	Sales	List pertanyaan adalah sebagai bentuk konfirmasi seperti: tanggal berapa unit di terima, kepastian tanggal jatuh tempo, warna unit, tipe kendaraan dan  verifikasi data-data seperti: tanggal lahir dan nama ibu kandung.																			
+AAV Centro		Sistem AAV (verifikasi customer) secara terpusat	Underwriting	Untuk ACC sistem AAV Centro ada di Jogjakarta dan Jakarta																			
+ABDA	Asuransi Bina Dana Arta	Suatu perusahaan asuransi kendaraan yang bekerjasama dengan ACC	Underwriting																				
+ABT	ACC Basic Training	Training yang berisi pengetahuan dasar mengenai ACC, berupa filosofi, nilai, sejarah, profil perusahaan, dll.	HC LM																				
+ACC Dealers Championship		Program reward ACC untuk dealer indirect	SALES																				
+ACC Flexy		Program dana pinjaman tunai dengan jaminan BPKB lebih di prioritaskan bagi customer non ACC dengan bantuan Sales Agent	Sales																				
+ACC Multibonus		Program reward Multiguna untuk Agen Flexi yang berkontribusi valid ke ACC	SALES																				
+ACC Priority		Program pinjaman dana tunai dengan jaminan BPKB untuk customer priority ACC ( overdue < 15 hari)	Sales	Kriteria overdue maksimal 10 hari dan masih memiliki 6 angsuran terakhir di ACC																			
+ACC WIN	ACC Walk In	Merupakan program baru ACC dimana customer yang berstatusnya RO/closed menjaminkan kembali BPKBnya untuk di beri pinjaman dana tunai.	Multiguna	Sasaran customer di khususkan kepada customer Walk in melalui CSO di setiap cabang.																			
+ACC Xtra 2017		Program reward untuk dealer-dealer Used Car	SALES																				
+ACC Yes!		Aplikasi bersifat online untuk mempermudah customer mendapat layanan dan informasi ACC (perhitungan simulasi kredit, angsuran, paket kredit ACC, produk ACC dsb)	Digital Marketing																				
+Achievement FPD	Achievement 1st Paymend Default	Hasil pencapaian FPD cabang tiap bulan	Underwriting	1 + (target-aktual)/target																			
+Achievement Surveyor		Hasil pencapaian yang surveyor dapatkan dari perjalanan survey yang dilakukan dan didapatkan	Underwriting	35% * Total Productivity + 40% * Total Quality + 25% * Total Delivery																			
+Achivement		Hasil dari pencapaian dalam jumlah %	Sales, Underwriting,AR	1 + (target - actual)/target																			
+ACP	ACC Credit Protection	Merupakan fasilitas Perlindungan Asuransi Jiwa bagi Nasabah ACC. Perlindungan ini melingkupi perlindungan terhadap kematian dan cacat baik karena penyakit ataupun kecelakaan	Sales																				
+ACP MONTHLY	Astra Credit Protection Monthly	Produk Asuransi Jiwa yang dikeluarkan oleh ACC yang pembayarannya dilakukan saat setelah kontrak telah berjalan beberapa lama. 	Sales 																				
+ACP SINGLE	Astra Credit Protection Single	Produk Asuransi Jiwa yang dikeluarkan oleh ACC yang pembayarannya dilakukan dari awal kontrak.	Sales 																				
+Actual		Hasil yang didapat dari nilai yang sebenarnya	AR																				
+Actual FPD	Actual 1st 9 Default	Pengukuran jumlah FPD yang ada pada hari berjalan	Underwriting	Jumlah acc.nunggak/jumlah acc.valid																			
+ADD COLL	Additional Collateral	Penambahan jaminan berupa aset	Fleet																				
+ADDB	Angsuran Dibayar Di Belakang	Angsuran yang dibayarkan pada bulan berikutnya	Fleet	Angsuran yang dibayarkan pada bulan berikutnya																			
+ADDB	Angsuran Dibayar Di Belakang	Angsuran yang dibayarkan pada bulan berikutnya	Sales	Angsuran yang dibayarkan pada bulan berikutnya --> Rumus TDP (ADDB) : DP + Admin																			
+Additional worklist		Daftar pekerjaan tambahan yang dikerjaan oleh underwriting officer agar dapat mencapai target workload productivity	Underwriting																				
+ADDM	Angsuran Dibayar Di Muka	DP + Cicilan pertama dibayar di awal	Sales	Nilai angsuran pertama + DP murni + Admin																			
+Address History		Menu di dalam AOL untuk melihat history alamat terupdate	AR																				
+ADH	Administration Head	Salah satu posisi dalam struktur Astra direct baik TSO, DSO, atau ISO. Bertanggung jawab terhadap semua kegiatan administrasi di cabang, baik laporan unit, service, kas, atau pun pegawai.	Sales																				
+ADHOC		Event maupun laporan yang tidak regular, bisa terjadi tiba-tiba dan mendadak.	umum																				
+ADIDAS	Astra Credit Companies Dashboard	bentuk simple dari REANI yang lebih fokus untuk data sales	RISK MIS																				
+Admin Balik		Refund yang diberikan ke pihak dealer melalui biaya admin balik	Sales	Biaya Admin yang di berikan pada customer - biaya admin yg telah di tetapkan pada dealer																			
+Admin collateral		Biaya penarikan yang di dapatkan berdasarkan bedah analisa kasus	AR																				
+AF	Amount Finance	Nilai yang harus dibayarkan	Sales	OTR-DP																			
+AFD	Agent Flexi Day	Sebuah program gathering yang dilakukan setiap Minggu di cabang untuk berdiskusi dengan Agen-Agen Flexi.	SALES																				
+AFLMP	ACC Firstline Management Program	Program pengembangan karyawan internal ACC untuk naik jabatan ke Supervisor	SALES	Lama program first line adalah 4 bulan																			
+AGING	Aging	Tools yang menunjukan data customer outstanding	Fleet																				
+Aging Hidup		Data daftar detil customer secara keseluruhan yang sudah overdue pada status tanggal tertentu dan status overduenya akan berubah pada setiap harinya	AR																				
+Aging Mati		Data daftar detil customer secara keseluruhan, baik itu yang sudah overdue maupun yang berpotensi overdue pada status pada tanggal tertentu (biasa pada status tanggal akhir bulan/ tutup buku)	AR																				
+AGU	Amandemen Ganti Unit	Pergantian unit karena proses klaim asuransi	Service	Untuk sistem asuransi biasanya TLO dengan tingkat 75% kerusakan dan harga AGU harus di atas harga pasar unit sebelumnya.																			
+AHRM	Astra Human Resources Management	Sistem management astra secara khusus terkait dengan HR/HC	HC LM																				
+AI ISO	Astra Internasional Isuzu Sales Operation	Dealer Direct Astra Internasional yang menyediakan produk isuzu	umum																				
+AI TSO	Astra Internasional Toyota Sales Operation	Dealer Direct Astra Internasional yang menyediakan produk toyota	umum																				
+AIA	ACC Improvement Award	Proses awarding tahunan untuk improvement yang dilakukan setiap individu maupun cabang di ACC	CSCO																				
+AI-DSO	Astra Internasional - Daihatsu Sales Operation	Dealer direct Astra yang menjual merk Astra daihatsu	umum																				
+AJF	Akta Jaminan Fidusia	akta fidusia, yang dapat digunakan ACC untuk menarik unit apabila customer menunggak	Underwriting																				
+All Risk	All Risk	Klaim dapat diajukan terhadap segala resiko(termasuk beret, lecet)	Sales	Cara pengajuan: dalam 3 x 24 jam customer harus menghubungi pihak asuransi dan pihak CSO ACC dan di kenakan biaya sebesar 300.000/kejadian																			
+ALPHA		Hitungan insentif head yang berhubungan dg KPI utama dari satu head departement di cabang	Operation																				
+AM	Account Maintanance	Proses yang dialami customer dari mulai membayar uang angsuran dan penanganan jika customer terlambat untuk membayar angsuran.	umum																				
+AMANDEMEN	Perubahan Perjanjian	Penambahan pada bagian tertentu dalam suatu perjanjian	umum																				
+AML	Anti Money Laundering	Kebijakan untuk mencegah pencucian uang	RISK POL																				
+Ammount		jumlah uang	AR																				
+AMMP	Astra Middle Management Program	Program pengembangan karyawan ASTRA yang telah mencapai posisi manajerial ke tingkat yang lebih tinggi, misalnya manajer area	HC LM																				
+AMOS	Application Mobile For Surveyor	Aplikasi untuk Surveyor area BPR, dengan sudah menggunakan gadget dan online	Underwriting	List Cabang BPR: DKI dan Jawa Barat																			
+AMS	Astra Management System	Sistem management astra	Operation																				
+AMT ADMIN FEE	Amount admin fee	besarnya biaya administrasi kontrak	RISK POL																				
+AMT INSU BYDEALER 	Amount insurance by dealer 	besarnya nilai asuransi balik	RISK MIS																				
+AMT_ADMIN_BYDEALER	Amount Administrasi Dealer	Jumlah admin hold dealer yang muncul di ASCII Sales	Underwriting (SUW)																				
+Angsuran kredit		Nominal yang harus dibayarkan oleh customer pada jatuh tempo	Sales																				
+Ansus	Analisa Kasus	Keterangan mengenai kronologis penarikan unit yang dilakukan oleh PEOJF biasanya untuk approval dan mengetahui besarnya biaya tarik.	AR																				
+AO	Additional order	pengajuan kredit kembali menambah kontrak sebelumnya yg belum lunas	Sales																				
+AO	Account Officer	Pihak yang melakukan account acquisition di fleet	Fleet																				
+AOL	ACC Online	Software yang digunakan oleh ACC untuk operasi	umum																				
+AOL	ACC Online Landing	Suatu sistem operasi yang dipakai oleh ACC khususnya cabang dalam tujuan support kegiatan operasional.	umum																				
+AP	Account Payable	Hutang yang di miliki oleh customer	AR																				
+AP 	Amount Payable	jumlah tagihan yang wajib dibayarkan oleh ACC kepada dealer atas penjualan unit	Underwriting																				
+AP OP	Approval Open	Status ketika suatu aplikasi yang sudah entri data hingga HRD dan sudah bisa dilakukan analisa	Underwriting																				
+AP Paylog		Salah satu fungsi di AOL untuk melihat waktu yang dipakai dalam memproses satu aplikasi	Underwriting																				
+AP Payment	Account Payable Payment	Nama admin yang memiliki fungsi dalam validasi aplikasi dan tagihan pembayaran dealer	Underwriting																				
+AP RE	Approval Reject	Status ketika suatu aplikasi di reject oleh komite kredit	Underwriting																				
+APH	Akte Pengakuan Hutang	Customer mengakui memiliki sejumlah hutang kepada ACC	AR																				
+APHT	Akta Pembebanan Hak Tanggungan	Pengikatan asset yang dijaminkan secara notaril	Fleet																				
+Aplikasi In		Aplikasi / data pemesanan kendaraan yang masuk ke ACC Dari dealer	Sales																				
+Aplikasi valid		Aplikasi yang sudah diapporve dan tagihan sudah dibayarkan ke dealer	Sales																				
+App Cremo	Approval Cremo	Proses Approval Cremo untuk aplikasi dimulai dari BUH / OH sampai COO	Underwriting																				
+APPI	Asosiasi Perusahaan Pembiayaan Indonesia	Sebuah organisasi profesi yang menjembatani antara perusahaan pembiayaan dengan pemerintah Indonesia.didirikan untuk menjadi wadah komunikasi bagi perusahaan-perusahaan pembiayaan, seperti membicarakan dan memecahkan berbagai masalah yang dihadapi.	umum																				
+Appl. Log	Application Log	Rekaman (history) sistem tentang suatu aplikasi berupa approval, cetak kontrak, go-live di tanggal brp saja)	Underwriting																				
+APPLOG 	application log	format dalam aplikasi input data di AOL yang berguna untuk melihat history proses aplikasi 	sales 																				
+Appron 		Bagian depan mobil (kap) tempat mesin  (seperti yang ada di GMPU)	National Remarketing																				
+Approve		Keputusan komite kredit yang menyetujui pembiyaan kepada customer yang memenuhi analisa 5C	Underwriting																				
+AQ	Account Quality	Pihak yang menangani overdue 1-60 di divisi fleet	Fleet																				
+AR	Account Receivable	Piutang	AR																				
+AR Clinic	AR Clinic	Metode yang dilakukan oleh pejabat AR Management untuk konsultasi mengenai performance AR baik individu maupun cabang	AR																				
+AR NET	Account Receivable Nett	Nilai pokok hutang piutang perusahaan yang outstanding pada periode tertentu	Finance																				
+ARBT	AR Basic Training	Ujian basic untuk kompetensi divisi AR khususnya untuk karyawan baru.	AR																				
+ARDH	Account Receivable Divison Head	Merupakan suatu jabatan division head khusus penanganan AR	AR																				
+ARDP	AR Development Program	Bagian dari program JLDP  berfokus pada bagian / divisi AR selama 4,5 Bulan	AR																				
+ARHH	Account Receiveable Handling Head	Jabatan cabang coordinator ARHO yang bertugas monitoring dan control serta membantu kegiatan ARHO dan bertanggung jawab langung kepada ARMH	AR																				
+ARHO	Account Receivable Handling Officer	Jabatan yang menagih tunggakan, mengetahui alasan customer overdue serta memberikan solusi pembayaran over 7-30	AR																				
+ARMH	Account receivable management head	Jabatan cabang yang menangan Account receivable yang bertanggung jawan langsung kepada RRAR	AR																				
+ARRO	Account Receivable Repossesion Officer	Jabatan yang menagih tunggakan, dan menarik kendaraan 	AR																				
+ASCII	American Standard Code for Information Interchange	Kode Standar Amerika untuk Pertukaran Informasi merupakan suatu standar internasional dalam kode huruf dan simbol seperti Hex dan Unicode tetapi ASCII lebih bersifat universal, contohnya 124 adalah untuk karakter	umum																				
+ASCII		Sistem yang digunakan ACC untuk melakukan penarikan data	umum																				
+ASCII_CAB	ASCII Cabang	Kode cabang dalam suatu area untuk melihat pembagian dengan cabang lain	Sales																				
+ASF	Astra Sedaya Finance	Nama lain dari Astra Credit Companies (ACC)	umum																				
+ASR	Average Selling Rate	Rata-rata nilai rate yang dijual ACC	Sales	Tambahin cara perhitungan																			
+ASTEK	Asuransi Tenaga Kerja	Asuransi untuk karyawan	HC PCBM																				
+ATPM	Agen Tunggal Pemegang Merk	contoh: agen tunggal toyota adalah Toyota Manufacturing Indonesia	Sales																				
+Aviva Life		salah satu maskapai asuransi jiwa yang berkerja sama dengan ACC	Underwriting																				
+b2b	Business to business	Merupakan suatu bentuk aktifitas dimana yang terlibat adalah antar bisnis atau antar perusahaan	umum																				
+BA		Kelas cabang dengan Saldo AF antara 35 hingga 60M dan saldo AR di atas 800M 	HC OD																				
+Backdate		pengunduran hari ovd dan denda karena pending payment	AR																				
+Backdate		Kembali ke tanggal sebelumnya (digunakan dalam pembuat report)	Operation																				
+BACKLOG	Backlog	Aplikasi status approve yang belum valid	Sales, Underwriting,Fleet																				
+Bad Customer		Merupakan customer-customer yang status aplikasi kreditnya INV,INVS,WO	Underwriting																				
+Bad Ratio		indikator untuk mengukur customer yang overdue lebih dari 30 hari di 3 bulan pertama	RISK MIS																				
+Bad_Mob12_60	Ever60+@12MOB	Customer yang ovd >60 hari dalam waktu 12 bulan setelah valid	RISK MIS																				
+Bad_Mob12_90	Ever90+@12MOB	Customer yang ovd >90 hari dalam waktu 12 bulan setelah valid	RISK MIS																				
+Bad_Mob3_30	Ever30+@3MOB	Customer yang ovd >30 hari dalam waktu 3 bulan setelah valid	RISK MIS																				
+Bad_Mob3_60	Ever60+@3MOB	Customer yang ovd >60 hari dalam waktu 3 bulan setelah valid	RISK MIS																				
+Bad_Mob3_7	Ever7+@3MOB	Customer yang ovd >7 hari dalam waktu 3 bulan setelah valid	RISK MIS																				
+Bad_Mob6_30	Ever30+@6MOB	Customer yang ovd >30 hari dalam waktu 6 bulan setelah valid	RISK MIS																				
+Bad_Mob6_60	Ever60+@6MOB	Customer yang ovd >60 hari dalam waktu 6 bulan setelah valid	RISK MIS																				
+Bad_Mob6_90	Ever90+@6MOB	Customer yang ovd >90 hari dalam waktu 6 bulan setelah valid	RISK MIS																				
+BAL	Branch Action Log	Daftar aktivitas yang dilakukan oleh cabang untuk melakukan aktivitas perbaikan dalam review area	HC OD																				
+BALADIKA	Baladika Bali	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Bali. Ketua umumnya saat ini Gus Bota.	REMO	Ormas																			
+Baladika	Baladika 	Organisasi masyarakat yang banyak melakukan bisnis pengamanan di Bali, seperti restoran, hotel, dan klub malam. Sudah berumur lebih dari 10 tahun dan menjadi salah satu ormas terbesar di Bali yang sering berserteru dengan Laskar Bali. Saat ini diketuai oleh Nyoman Gde Sudiantara.	AR																				
+Balance 120		ovd 121- WO	AR																				
+Balance 90		ovd 91-WO	AR																				
+Balance Overdue 30 		jumlah AR yang menunggak di atas 30 hari	AR																				
+Balance Overdue 60 		jumlah AR yang menunggak di atas 60 hari	AR																				
+Balance Overdue 7 		jumlah AR yang menunggak di atas 7 hari	AR																				
+Balancing		Proses penyesuaian penilaian customer	HC TPM																				
+Balang	Balai Lelang	Tempat proses pelelangan	National Remarketing	Contoh yang bekerja sama dengan ACC adalah: ibid																			
+Baloon Payment		Bentuk paket kredit yang diakhir masa tenor / periode kredit, customer masih harus membayar 50% - 75% dari Total Hutang, karena pada masa kredit customer hanya membayar 25% atau 50% dari Total Hutang. kredit paket pembiayaan dimana sistem pembayaran  kredit dengan cara mengangsur setengahnya lebih dulu, kemudian sisa kewajiban dibayar di akhir tahun ketiga.	Sales																				
+Bansur	Bantuan Survey	Merupakan request ke cabang lain untuk melakukan bantuan survey terkait customer tertentu	Underwriting (SUW)																				
+BAPK	Berita Acara Penyerahan Kendaraan	Dokumen yang berisi tentang data kendaraan tarikan dan tandatangan pihak yang menyerahkan unit(konseumen/pemakai), pihak yang menerima unit (Petugas penarikan), pihak security pool dan pihak ACC (PIC Inventory dan Collection Head).  	AR																				
+Basemaster		koordinator surveyor di cabang ACC Non BPR	Underwriting																				
+BAST	Berita Acara Serah Terima	Dokumen serah terima unit dari dealer kepada customer	Underwriting																				
+Batching		Jadwal untuk melakukan perhitungan dan atau pencatatan jumlah uang sesuai transaksi yang masuk disesuaikan dengan jumlah fisik uang.	Service	Untuk implementasi di cabang biasanya terjadi 3 x proses yaitu: jam 10.00, jam 14.00, dan jam 16.00																			
+BBC	Buah Batu Corps	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Sunda. Saat ini diketuai oleh Mugi Sujana.	REMO	Ormas																			
+BBG	Buyback Guarantee	Perjanjian pembelian kembali unit apabila customer overdue oleh guarantor	Fleet Underwriting																				
+BC	Banker Clause	Asuransi non-AAB	Service																				
+BCP	Business Continuity Plan	Memastikan kegiatan bisnis dapat terus berjalan, dan tidak tergangu akibat resiko bencana alam yang terjadi	RISK POL																				
+Benefit		bentuk imbal jasa atau dasar dari kebutuhan yang berguna untuk memperlancar proses kerja	HC PCBM																				
+Biweekly		Istilah yang digunakan untuk kegiatan rapat yang dilakukan setiap 2 mingguan oleh para head di cabang	umum																				
+Biweekly review		Review terhadap kinerja UW officer dan berbagai issue yang terjadi di departemen underwriting yang disampaikan oleh BUH	Underwriting																				
+Biweekly review meeting		media pertemuan dan koordinasi antar departmen yang dilakukan setiap 2 minggu sekali untuk membahas permasalahan cabang dan bersinergi bersama	MCS																				
+BJ	Biro Jasa	Pihak external yang bekerja sama dengan ACC dalam handling kepengurusan surat-surat yang berhubungan langsung dengan samsat.	Service	Contoh handling: Proses BBN, Perpanjangan STNK, Cek absah BPKB																			
+BKR	Bukti Kepemilikan Rumah	Dapat berupa tagihan listrik, PBB dan 	Underwriting																				
+Black Area City		Area dengan resiko kredit tinggi	Underwriting																				
+blacklist 	blacklist 	daftar data customer yang memiliki catatan buruk biasanya di dapatkan dari history kredit maupun list APPI	AR																				
+Blue Dealer		DEALER WITH RISK >=5%	RISK POL																				
+Blue Print		mapping seluruh ASCII yang ada di ACC	RISK MIS																				
+BM	Branch Manager	Jabatan cabang head yang bertugas menjaga seluruh kegiatan cabang dan bertanggung jawab langung kepada RRSH	HC OD																				
+BMFE	Barisan Muda Flores Ende	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Timor. Ketua umumnya Thalib Makarim.	REMO	Ormas																			
+BMP	Batas Minimum Productivity	Merupakan batas standar seorang karyawan dikatakan produktif dalam pekerjaannya.	HC OD																				
+BO	Beneficial Owner	Fasilitator kepemilikan kendaraan orang lain (keluarga inti)	Sales																				
+BOD	Board Of Director	Jajaran Direksi suatu perusahaan	umum																				
+Booking fee	Tanda jadi	Jumlah nilai nominal yang berperan sebagai pengikat antara dealer dan konsumen pada periode waktu tertentu dalam rangka pembelian mobil	Sales																				
+Boom		Reward yg diberikan pd ARHO yang memiliki balance 7 lebih baik dr LM 	AR																				
+Borrower Detail		Menu di dalam AOL untuk melihat data customer	AR																				
+BOSS	Bandung Bodyguard and Security Service	organisasi Massa yang bergerak dalam bidang bisnis jasa keamanan di Kota Bandung. Didirikan Iskandarsyah Berlian alias Isbul alias kang Is. Saat ini diketuai oleh Youne Victorio Senduk.	REMO	Ormas																			
+BOU	Bounce	Status Pencairan Giro apabila Pencairan Giro ditolak oleh bank	Service																				
+BOU	Balance of Understanding 	Status pembayaran akun customer saat terjadi tunggakan 	AR																				
+BPJS	Badan Penyelenggara Jaminan Sosial	Badan yang dibentuk pemerintah untuk memberikan perlindungan kesehatan kepada masyarakat	HC PCBM																				
+BPKB	Bukti Pemilik Kendaraan Bermotor	Asset yang dimliki oleh ACC berupa bukti kepemilikan kendaraan customer, sebelum customer melakukan dan menyelesaikan pembayarannya di ACC maka BPKB ini di tahan dan di jadikan jaminannya.	Sales																				
+BPKB Titipan Dealer		BPKB yang oleh dealer diserahkan ke cabang selain cabang booking	Service																				
+BPPKBB	Badan Pembina Potensi Keluarga Besar Banten	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Banten. Saat ini ketua umumnya H. Noer Inderadjaya.	REMO	Ormas																			
+BPR	Business Process Reenginering	Proses survey dan approval marketing expetion (marex)  dilakukan paralel dengan approval underwriting.	Underwriting																				
+branch booking		Profil booking aplikasi cabang yang diproses oleh cabang tersebut	Sales,UW																				
+branch handling		Proses penanganan penagihan hutang ke customer yang domisilinya paling dekat dengan salah satu daerah cabang ACC	AR																				
+Branch Issues		Isu yang terjadi di cabang yang direport dalam review area	HC OD																				
+brand		Salah satu jenis kendaraan seperti toyota, daihatsu	Sales																				
+Breefing		sebuah pengarahan yang diberikan sebelum dimuainya kegiatan dalam perusahaan	umum	Isi dari briefing adalah: kendala yang dialami hari kemarin, diff to target, dan memberikan semangat.																			
+Brosur		Material promosi yang berwarna dan berisi info fitur utama, spesifikasi, varian warna hingga tipe apa saja yang dipasarkan	Sales																				
+BSTB	Berit Serah Terima BPKB	Dokumen yang menjadi sebuah bukti dari serah terima BPKB antara Pihak Dealer dan ACC	Sales 																				
+BSTKB	Berita Serah Terima Kendaraan Bermotor	Bukti bahwa telah dilakukan serah terima kendaraan antara dealer dan customer	Underwriting																				
+BT	Biaya Tarik	Biaya yang dikeluarkan untuk eksternal PEOJF untuk Eksekusi unit tarikan	AR	750.000/tarikan atau tergantung analisa kasus																			
+Bucket 121-150		Daftar customer ovd 121-150	AR																				
+Bucket 151-210		Daftar customer ovd 151-210	AR																				
+Bucket 211-290		Daftar customer ovd 211-290	AR																				
+Bucket 31-60		Daftar customer ovd 31-60	AR																				
+Bucket 61-90		Daftar customer ovd 61-90	AR																				
+Bucket 8-30		Daftar customer ovd 8-30	AR																				
+Bucket 91-120		Daftar customer ovd 91-120	AR																				
+Bucket Aplikasi		Daftar aplikasi kredit yang harus diproses/dianalisa	Underwriting (SUW)																				
+bucket approval		list data customer yang membutuhkan keputusan kredit approve atau reject dari operation 	Underwriting																				
+Bucket Assignment		Untuk mempercepat approval SK	AR																				
+Bucket list		Daftar customer ovd	AR																				
+BUH	Branch Underwriting Head	Jabatan cabang yang bertanggung jawab atas analisa credit dan proses administrasi kontrak	Underwriting																				
+Buy back		membeli kembali kontrak kontrak JF menjadi kontrak reguler	RISK MIS																				
+C2C	Customer to Customer	Penjualan dari perorangan ke perorangan (tidak melalui dealer)	umum																				
+CA	Credit Analyst	Orang yang menganalisa kelayakan kredit	Fleet Underwriting																				
+CA1	Credit Admin 1	jabatan di Underwriting yang memiliki fungsi untuk verifikasi dokumen customer dan pencetakan kontrak	Underwriting																				
+Cabang  		Kantor yang mengurus kepentingan perusahaan yang kedudukannya di bawah kordinasi naungan kantor pusat	Sales	Klasifikasi penilaian kelas cabang biasanya dinilai dari jumlah OSA yang ditangani dan besarnya jualan. Klasifikasi dimulai dari AA, AB, AC, BA, BB dsb.																			
+Cabang Centro		Cabang Utama ACC yang merupakan pusat dari cabang pembantu lainnya pada satu provinsi dan memiliki surveyor centro	Operation																				
+Cabang SP	Cabang Service Point	Kelas cabang di bawah cabang D	Operation																				
+CADF	Credit Admin Fiducia	Jabatan di ACC yang mengurus request Fidusia kepada notaris	Underwriting																				
+CADM	Credit Administration	Salah satu jabatan di underwriting yg bertugas melakukan proses pembuatan fidusia	Underwriting																				
+CAGR	Compound Annual Growth Rate	Tingkat pertumbuhan investasi dan bisnis dari periode tahun tertentu	Finance																				
+CAL	Corrective Action Log	Tool monitoring yang di dapatkan dari penanganan deskcoll	AR																				
+CAL	Corrective Action Log	Semua status PICA yang masih on progress dan masuk bi-weekly	umum																				
+CAPS RED		Batasan (jumlah kuota) untuk tipe aplikasi Red / Red Segmen pada satu cabang	Operation	Persentase Cap Red x Rata - Rata Unit Valid 3 Bulan Terakhir																			
+Capacity		Kemampuan kreditur untuk memenuhi kewajiban kreditnya	Underwriting																				
+CAPEX	Capital Expenditure	Alokasi anggaran yang bersifat tetap (peralatan/perlengkapan)	Operation																				
+Capital		Seluruh harta kekayaan yang dimiliki (perorangan), seluruh harta operasional yang digunakan	Underwriting																				
+Capital Tangible		Parameter pada proses analisa yang dapat diukur	Underwriting																				
+Capital Untangible		Parameter pada proses analisa yang tidak dapat diukur	Underwriting																				
+capowo	Calon potensi WO	ovd 91-120	AR																				
+Capowo	Calon Potensi Write Off	Status akun yang akan menjadi potensi WO pada status tanggal tertentu	REMO																				
+CAPS PAKET	Capasitas Paket	Batasan untuk Paket Low Segmen DP 15%. Contohnya Paket Resolusi dan Paket Setia	RISK MIS																				
+Cash advance	Cash advance	Deposit angsuran	Service																				
+CASH COLL	Cash Collateral	Penambahan jaminan berupa angsuran	Fleet																				
+Cashflow		Ketika customer mengalami macet pembayaran karena sumber pendapatan juga lagi macet	AR																				
+CBM	Criteria Based Matrix	Merupakan suatu bentuk pemilihan alternatif solusi berdasar kriteria yang diinginkan	HC OD																				
+CBO	Collection By Order	Bucket list AR yang dipersiapkan ARHH untuk dikunjungi	AR																				
+CBO point	Collection By Order Point	Poin CBO	AR																				
+CBU	Completely Build Up	Mobil yang di import utuh	umum																				
+CCRP	Customer Complaint Resolution Process	Solusi yang diberikan sebagai respon dari adanya keluhan customer	Service																				
+CDD	Customer Due Diligence	Momentum untuk saling mengenal untuk mencapai kesepakatan dengan customer	Sales																				
+CEO	Chief Executive Officer	Salah satu jabatan di ACC	HC OD																				
+CF	Consumer Finance	Salah satu jenis sewa guna usaha	Sales																				
+CG	Corporate Guarantee	Pengikatan perusahaan terhadap kontrak pembiayaan	Fleet																				
+CH	Collection Head		AR																				
+Champion Club		Program awarding tahunan untuk sales dan AR ACC	umum																				
+Channel Expansion		planning perluasan cabang dan akses poin ACC	Marketing Planning & Control																				
+Character		Reputasi debitur, pengalaman, dan nilai-nilai etika yang menggambarkan watak dan itikad debitur	Underwriting																				
+Chasis		Kerangka Kendaraan	Underwriting																				
+Checklist		Pengecekan list	AR																				
+CHOSIT 		Form yang digunakan untuk simulasi hitungan kredit 	Sales																				
+Cigna		Suatu perusahaan asuransi jiwa yang bekerjasama dengan ACC	Underwriting																				
+CIS	Customer Intimacy System	sistem telemarketing dimana isinya data customer yg sudah pre approved untuk ditawarkan dana tunai	Sales																				
+Citrix		Aplikasi yang di gunakan untuk penunjang bisnis ACC	AR																				
+CKD	Completely Knock Down	Mobil yang di import terurai dan dirakit di dalam negri	umum																				
+Class Assigment		Pembagian kelas customer di deskcoll berdasarkan overdue 	AR																				
+CLOSE		status kontrak yang sudah selesai dengan pembayaran hingga akhir tenor	AR																				
+Closing		Aktivitas tutup buku di cabang dimana mengukur bagaimana achievement yang telah dilakukan selama satu bulan.	umum																				
+Cluster	Pengelompokan dealer	Pengelompokan dealer-dealer berdasarkan potensi dealer dan wilayah penanganan SO	Brand used car																				
+CN	Cover Note	Bukti Persetujuan Asuransi telah berlaku	Fleet																				
+CnC	Coaching and Conselling	Kegiatan yang dilakukan oleh atasan kepada timnya	HC TPM																				
+Co-Approval	Co-Approval	Pengajuan approval kembali	Sales																				
+Co-Borrower	Co-Borrower	Suami/istri dari customer	Underwriting																				
+Co-Override	Co-Override	Jalur approval jika caps override habis	Sales																				
+Cobra		Salah satu program boosting refund untuk dealer	Sales																				
+COE	Calender Of Events	Kalender yang berisikan rencana kegiatan-kegiatan dalam kurun waktu 1 bulan	HC LM																				
+COF	Cost Of Fund	Biaya modal pembiayaan	Marketing																				
+COH	Cash On Hand	Dana Angsuran Cust sudah di serahkan ke ARHO 	AR																				
+COO	Chief Operation Officer	Salah satu jabatan di ACC	HC OD																				
+Collateral		Salah satu elemen analisa 5c yang mempertimbangkan jaminan yang dimiliki ybs yang mengikat ybs dengan leasing terkait. Jaminan yang diberikan sebagai cara untuk memperkecil resiko yang ditanggung oleh kreditur	Underwriting																				
+Collection Details		Menu di dalam AOL untuk melihat history penanganan sebelumnya	AR																				
+Collector		orang yang melakukan pekerjaan sebagai penagih	AR																				
+Coll-Report	Collection Report	Menu di AOL untuk melihat transaksi.	AR																				
+COMBAT	REMO Basic Training	Training pembekalan selama 3 haru yang di berikan kepada karyawan baru REMO, yang berisikan dasar-dasar dalam REMO management	REMO																				
+Comment AR	Comment Account Recivable	Permohonan pertimbangan AR  mengenai customer yang RO/AO untuk approval	Sales																				
+Comparing		Melakukan perbandingan antara satu dengan yang lain	umum																				
+Competitor Intelegence		analisa competitor ( pasar, strategi, paket reward, dan segala sesuatu berita mengenai competitor untuk memantau competiitor, pangsa pasar dan dealer yang berpotensi )	Marketing Planning & Control																				
+Compliance		officer mematuhi setiap aturan dan ketentuan yang diterapkan oleh management ACC dalam bekerja	Audit MCS																				
+Compliance (MCS)	Compliance (Management Control System)	Standar penilaian audit terhadap kepatuhan divisi underwriting dalam mengisi MCS	Underwriting,AR, dan Service																				
+COMPRE		Customer Menunggak di atas 30 hari	Fleet																				
+Condition		Faktor eksternal yang mempengaruhi kemampuan debitur memenuhi kewajiban kreditnya	Underwriting																				
+Coverage		Merupakan area cakupan/penanganan suatu pekerjaan	umum																				
+CPRE	Close Prepayment	Unit yang kontraknya sudah selesai karena pelunasan	AR																				
+CPRE		Status pembayaran saat akun telah melakukan pelunasan (prepayment) 	AR																				
+CR	Counter Rate	Suku bunga dalam perjanjian kredit	Sales																				
+credit amt acp 	credit amount acp	nilai asuransi acp dibayar kredit 	sales																				
+CREDIT SCORE  		Menggambarkan seberapa baik kualitas  aplikasi pembiaayaan melalui skor.	Underwriting																				
+credit scoring		penilaian yang diberikan kepada customer atas keterangan yang didapatkan sesuai data apliaksi 	Underwriting																				
+Cremo	Credit Memo	Merupakan hasil skoring dari suatu aplikasi yang menjadi salah satu pertimbangan/bobot aplikasi layak di terima atau ditolak	Underwriting dan Sales																				
+CRO	Chief Retail Operation	Salah satu jabatan di ACC	HC OD																				
+Cross Collateral		Klausul yang dimaksudkan agar jaminan yang telah diserahkan oleh debitur yang diikat sesuai dengan lembaga penjaminnya yang akan mengkait ke beberapa perjanjian kredit lainnya.	AR	cust punya 2 unit di ACC, salah 1nya ditarik/CPRE namun masih ada denda pelunasan yang belum terbayar, walaupun unit 1 lagi sudah terbayar lunas, naka unit yang dibayar lunas/lancar tidak bisa ambil BPKB																			
+CROSS DEFAULT		Pengikatan kontrak baru dengan kontrak yang masih berjalan	Fleet																				
+Cross default		sebuah regulasi yang apabila customer multikontrak, menunggak pada salah satu kontraknya. Maka unit tidak dapat diambil sebelum tunggakan dibayar (posisi harus current). Klausul yang memberikan kewenangan bagi bank tanpa diperlukan somasi atau peringatan lagi untuk mengakhiri perjanjian kredit dengan nasabah	Operation																				
+Cross Function		Penempatan karyawan ACC yang berbeda fungsi atau divisi	HC OD																				
+CRP	Cost Reduction Program	Program penghematan OPEX	umum																				
+CS	Cost Sheet	Tools yang digunakan untuk simulasi perhitungan kredit	Fleet																				
+CSI	Customer Satisfaction Index	Suatu pengukuran kepuasan pelanggan atas pelayanan yang diberikan	Service																				
+CSO	Customer Service Officer	Jabatan frontliner di cabang	Service																				
+CSR	corporate social responsibility	bentuk tanggungjawab perusahaan kepada masyarakat sekitar 	CSR																				
+Current		istilah account overdue yang sudah membayar	Sales																				
+Customer		Setiap pihak yang perlu kita jaga tingkat kepuasaannya. (Bisa berupa dealer, maupun pihak yang mengambil kredit)	umum																				
+Customer Satisfaction		Salah satu value ACC : Memberikan pengalaman terbaik bagi pelanggan melalui pelayanan yang andal dan terpercaya	Service																				
+Customer WIN	Customer Walk In	Istilah yang digunakan internal ACC untuk menamakan customer-customer yang datang ke meja pelayanan ACC	Service																				
+CV	Contribution Value	Selisih antara nilai revenue dikurangi dengan cost of fund	Finance	Revenue - Cost Of Fund																			
+CV-	comercial vehicle 	istilah untuk mobil-mobil yang digunakan untuk usaha 	sales																				
+Daftar KSJ	Daftar Kendaraan siap jual	lisf dan form kendaraan siap jual dalam lelang	AR																				
+Daily update		Salah satu tools dari MCS yang dilakukan oleh BUH dengan melaporkan update berbagai issue di underwriting kepada OH	Underwriting																				
+Dashboard		Tempat di bagian depan dalam interior mobil yang terdapat stir mobil, AC, radio, dan lainnya.	AR																				
+Data Mandatory		Data-data minimal yang harus di kumpulkan dalam pengajuan aplikasi. Misalkan: KTP, KK, NPWP, Cover buku tabungan, PBB	Sales																				
+Data Mining		Data Management atau pengurusan data, tarik data dalam setiap department	RISK MIS																				
+Date Go Live		Tanggal dimana suatu pembiayaan sudah mulai aktif	Sales																				
+DB OP	Disbursement On Progres	Status ketika aplikasi sudah valid dan akan dilakukan pembayaran oleh ACC	Underwriting																				
+DBSFR	Dasboard System Functional Report	Papan yang digunakan sebagai laporan atas kinerja officer terhadap pencapaian KPI di departemen underwriting	Underwriting																				
+DBSFR	Daily Branch Summary Functional Report	Laporan harian untuk tool monitoring yang ada di deskcoll	AR																				
+DC	Desk Collection	Proses reminder terhadap account over 1-7 by phone	AR																				
+DC handling	Desk Collection Handling	Jumlah account yang dihandling DC dalam sebulan	AR																				
+DCC	Desk Collection Coordinator	Jabatan  coordinator DC Agent yang bertugas monitoring dan control DC Agent	AR																				
+DCH	Desk Collection Head	Jabatan  yang menangani Account receivable pada bagian deskcollyang bertanggung jawan langsung kepada RODH	AR																				
+DCMSO	Deputy Chief Sales & Marketing Officer	Posisi jabatan setingkat dibawah CMSO	SALES																				
+DE	Data Entry	Salah satu jabatan di departemen underwriting yg bertugas melakukan input data aplikasi	Underwriting																				
+Dealer due diligence		memperbaharui informasi dealer setiap setahun sekali yang berisi bentuk dealer, alamat, denah, foto dan stock	sales																				
+Dealer HO 		Grup dari satu atau beberapa dealer yang berhubungan dengan ACC	Sales																				
+Dealer Mars		Program ACC dalam menggrab aplikasi dengan menyediakan komputer dan printer di dealer sehingga SO dapat bersaing dengan leasing lain dalam mencari aplikasi	SALES																				
+Dealer Pareto		Dealer yang memberikan kontribusi paling signifikan untuk pencapain AF maupun unit cabang, dengan kata lain ini adalah dealer backbone ACC	SALES																				
+Dealer RO	Dealer Repeat Order	Cabang dari suatu grup dealer yang bekerjasama dengan ACC 	Sales																				
+Debitor		Pihak yang berhutang kepada pihak lain	Operation																				
+Defect 		Tidak sesuai dengan target yang seharusnya	Underwriting																				
+Deffect 		kondisi dimana batas waktu untuk TTD, TTY, TTS telah melampaui batas waktu standar	Underwriting																				
+Denda		Biaya muncul setiap kali  customer menunggak	AR	0,3% X angsuran x hari keterlambatan																			
+Denda Saldo 0		Denda keterlambatan yang belum dilunasi customer yang sudah selesai masa tenornya sehingga BPKB customer masih tertahan di ACC	Service																				
+Deskcoll ex WO	DeskColl ex Write-Off	DesskColl yang menangani customer WO	AR																				
+DF	Double funding	dua atau lebih aplikasi yang sama dengan debitur yang sama 	finance																				
+DIFF LM	Different Last month	Pebandingan status hari ini ke Last month	AR																				
+DILO	Daily Activity Of	Laporan yang diberikan harian kepada peserta program	HC LM																				
+DIRECT AAB	Direct Asuransi Astra Buana	Pembayaran asuransi AAB oleh customer langsung	Service																				
+Direct Astra		produk astra yang dijual oleh dealer astra grup	Sales																				
+Disdukcapil	Dinas Kependudukan dan Catatan Sipil	Salah satu suku dinas dalam pemerintahan yang bertugas terhadap administrasi WNI termasuk mengurus KTP. Sudah bekerjasama dengan ACC dalam hal berbagi bank data sehingga dapat melakukan cek status KTP WNI secara nasional.	Underwriting																				
+DK	Data Keuangan	Salah satu syarat yang harus dipenuhi oleh customer untuk membuka kredit di ACC	Underwriting (SUW)																				
+DK	Dalam Kota	wilayah yang berada dalam jarak kurang dari 60 Km dari kantor ACC terdekat	AR	<60 Km dari Kantor ACC terdekat																			
+DKIYKD	Daftar Kendaraan Inventory Yang Akan Dijual	List daftar kendaraan tarikan yang akan dijual	AR																				
+DMAIC	Define, Measure, Analyze, Improve, 	Metode yang digunakan untuk mengidentifiasi masalah, melakukan langkah perbaikan serta mengontrol langkah perbaikan tersebut	HC LM																				
+DO	Delivery Order	Dokumen yang berfungsi sebagai surat perintah penyerahan barang kepada pembawa surat tersebut yaitu Dealer. 	Sales 																				
+DO & DONT's		Hal yang boleh dan jangan dilakukan dalam kegiatan kantor	HC LM																				
+Document Custodian		Pemiliharaan dokumen kontrak customer yang dilakukan oleh UW officer	Underwriting																				
+Dokumen Mandatory A		Dokumen mandatory A yaitu Dokumen yang tidak boleh dilakukan penyimpangan atau memakai formulir penyimpangan. Contohnya FAP, FC KTP YBS, & FC KK YBS	Underwriting																				
+Dokumen Mandatory B		Dokumen mandatory B yaitu Dokumen yang boleh dilakukan penyimpangan atau memakai formulir penyimpangan. Contohnya FC NPWP, FC DK, FC Slip Gaji, FC rek. Koran, FC Izin PrakteK dan FC PBB	Underwriting																				
+DOMINIC	Dealer Monitoring and Fraud Indicator	Database yang dikeluarkan oleh departemen risk untuk monitoring delaer dan potensi fraud	RISK MIS																				
+Double insure		mengasuransikan suatu hal secara double, contoh asuransi bangunan untuk gempa	RISK POL																				
+DP	Data Printing	Salah satu jabatan di underwriting yang bertugas melakukan cetak kontrak, survey dan memo credit	HC OD																				
+DP	Down Payment	Uang muka yang dibayar customer kepada dealer untuk proses kredit	Sales																				
+DP CL	Documment Printing Close	Status Aplikasi yang sudah masuk / ada di buckter DP lebih dari 30 Hari	Underwriting																				
+DP Chasis	Down Payment Chasis	uang muka untuk rangka kendaraan	Sales																				
+DPS	Daftar Pemegang Saham	Daftar yang berisi nama pemegang saham	Operation																				
+DP OP	Document Printing Open	Status ketika suatu aplikasi yang sudah approve dan sudah bisa cetak kontrak	Underwriting																				
+DPHM	Daftar pengajuan harga minimum	List pengajuan harga untuk dijadikan batas bawah MRP	Service																				
+DR	Di Rekomendasi	Status hasil Survei dari surveyor apabila surveyor merasa customer sanggup untuk memenuhi kewajibannya apabila diberikan kredit	Underwriting																				
+DRP	Disaster Recovery Plan	Memastikan back up plan untuk setiap potensi resiko yang terjadi	RISK POL																				
+DSD	Decision Support Dashboard	Dashboard yang dapat menampilkan informasi dengan detail dan summary dalam 1 tampilan yang dapat diakses secara real-time	RISK MIS																				
+DSO	Daihatsu Sales Operation	Dealer direct yang bekerja sama langsung dengan ACC dalam penjualan unit daihatsu	Brand Daihatsu																				
+DT APPL 	Date application 	tanggal masuk aplikasi 	Underwriting																				
+DT Cancel	date cancel	tanggal pembatalan aplikasi	Underwriting																				
+DUE DATE	DUE DATE	Jatuh Tempo Angsuran	AR																				
+EBEK	ETIKA BISNIS &ETIKA KERJA	Pedoman perilaku	HC IR																				
+Ecentrix		Suatu sistem operasi yang dipakai oleh Deskcoll untuk support kegiatan operasional.	AR																				
+E-contract	Electronic Contract	Proses pelaksanaan kontrak melalui sistem elektronik yang bertujuan paper less 	Underwriting	TTD kontrak di PPJF, pernyataan dan konfirmasi, serta SP Transfer yang digunakan untuk dealer by elektronik																			
+Effective Rate		Perhitungan bunga credut dengan system anuitas	Sales																				
+EIS	Enterprise Information System	Sistem yang digunakan untuk melihat data-data harian semua cabang	umum																				
+Eks coll	Eksternal collector	Istilah lain untuk PEOJF	AR																				
+E-Link	Elink	Program Reward yang diberikan untuk karyawan ACC yang mereferensikan produk c2c financing	Sales																				
+EM	Enhancement Managerial Program	Program leadership yang didedikasikan untuk menciptakan karyawan astra di level head management dari sumber karyawan yang sudah menjabat sebelumnya	HC LM																				
+EOD	End of Day		AR																				
+EOM	End of month		AR																				
+Equity		Nilai ekuitas perusahaan	Finance																				
+ER	Enhancement Reguler Program	Program leadership yang didedikasikan untuk menciptakan karyawan astra di level head management dari sumber karyawan internal	HC LM																				
+ERM	Enterprise Risk Management	Bagian dari fungsi risk untuk menangani dan memanage 9 resiko yang ada di perusahaan, sesuai dengan ISO 31000	RISK POL																				
+Error Rate		Salah satu KPI surveyor yang berhubungan dengan FPD. Sebesarapa besar hasil survey yang DR/TR akan menimbulkan FPP (Baik Snap maupun Compre)	Sales 																				
+Etika bisnis		Pedoman perilaku antara perusahaan dengan pihak luar yang terkait pada bisnis perusahaan	HC IR																				
+Etika Kerja		Pedoman perilaku antar karyawan dalam perusahaan	HC IR																				
+Ex Gratia		Maskapai asuransi menolak claim asuransi yang diajukan oleh ACC, dan ACC kembali mengajukan claim tersebut (seperti naik banding)	SAL																				
+Exit Interview		Interview yang dilakukan untuk officer yang mengajukan resign. Tujuannya untuk mengetahui alasan resign dan memberikan motivasi akhir, (masuk baik-baik, keluar baik-baik)	HC Recruitment																				
+F3MD 	First Three Months Maintain Default	Jmlh account sukses reschedule yg masuk lagi ke bucket 8-30	Service																				
+F6MD 	First Six Months Maintain Default	Jmlh account sukses reschedule yg masuk lg ke bucket 8-30	Service																				
+F9PD	First 9 Payment Default	Customer overdue di 9 angsuran pertama setelah kontrak valid	sales																				
+F9PD BOOKING	1st nine payment default booking	F9PD penjualan sebuah cabang yang ada di wilayah penanganan cabang booking	AR																				
+F9PD HANDLING	1st nine payment default handling	F9PD yang ada dalam wilayah penanganan cabang lain	AR																				
+FAB	Finance and Banking 	PIC yang mengurus keuangan cabang	Service																				
+FACTORING		Pembiayaan dengan jaminan invoce	Fleet																				
+Fakpol	Faktur Polisi	Bukti Pembelian Kendaraan	Underwriting																				
+Faktur		Bukti sertifikat kendaraan dari ATPM	Sales																				
+famday 	family day 	program kegiatan internal acc yang  diselenggarakan oleh industrial relations untuk membangun hubungan dengan cabang satu dengan yang lain 	HC IR																				
+FAP	Form Aplikasi Pembiayaan	Formulir yang digunakan untuk menuliskan data pemohon pembiayaan	Sales																				
+Fast Moving Unit		Unit-unit yang mudah untuk diperjualbelikan atau cepat laku di pasaran	Sales																				
+FBR	Forum Betawi Rempug	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Betawi. Ketua umumnya saat ini, KH. Luthfi Hakim, MA.	REMO	Ormas																			
+FC	Financing Charge	Biaya yang dikenakan terhadap peminjaman dana/kredit (bunga)	Finance																				
+FEI	Form Exit Interview	Formulir yang digunakan untuk mewawancara karyawan yang akan resign	HC IR																				
+Fender		Rangka mobil bagian depan atau belakang disamping panel pintu	Service																				
+FGD	Focus Group Discussion	Salah satu tahapan dalam proses seleksi ACC untuk posisi LDP	HC LM																				
+Fidusia		Perjanjian hutang piutang kreditor kepada debitor 	Branch																				
+FIFO	First in First out	Mekanisme aplikasi dida;lam underwriting	AR																				
+Filing	Filing	Proses memasukkan dokumen kontrak ke hangmap	Underwriting																				
+Finansial Lease	Finansial Lease	Kegiatan sewa guna usaha dimana lease pada akhir tenor mempunyai hak opsi untuk membeli objek SGU.	Sales 																				
+FIRAL	Fortuner Inova Rush Alpard	Singkatan yang dibuat oleh ACC untuk menyebutkan unit- unit dari Brand Toyota dengan jumlah AF yang besar.	Sales 																				
+First Line		Jenis program LDP yang diikuti oleh officer ACC untuk menjadi level coordinator di ACC	HC LM																				
+fishbone	fishbone 	metode pencarian masalah 	HC LM																				
+Flag B/C	Flag Banker Close	Flag aplikasi jika customer memakai asuransi eksternal (Diluar maskapai asuransi yang bekerja sama dengan ACC)	Sales 																				
+Flag Int	Internal	Flag aplikasi jika customer memakai asuransi internal (AAB, ABDA, dan RAMAYANA)	Sales 																				
+Flag PB		Flag aplikasi untuk unit Commercial	Sales 																				
+Flag PT		Flag aplikasi untuk unit Passanger	Sales 																				
+Flag Segmen	Flag Segmen	Segmentasi di departemen AR Management dalam bentuk warna (red, yellow, green, black) berdasarkan history wilayah penanganan	AR																				
+Flat Rate		Bunga yang diberikan stabil dari awal sampai dengan akhir angsuran	Sales																				
+FLDP	First Line Development Program	Program leadership yang didedikasikan untuk menciptakan karyawan astra di level coordinator management dari sumber karyawan internal	HC LM																				
+Flg_Bad		Flag 1 jika kontrak pernah masuk inventory atau writeoff	RISK MIS																				
+Flg_Bad30		Flag 1 jika kontrak pernah masuk inventory atau writeoff atau pernah menunggak lebih dari 30 hari	RISK MIS																				
+Flg_Bad60		Flag 1 jika kontrak pernah masuk inventory atau writeoff atau pernah menunggak lebih dari 60 hari	RISK MIS																				
+Flg_Bad90		Flag 1 jika kontrak pernah masuk inventory atau writeoff atau pernah menunggak lebih dari 90 hari	RISK MIS																				
+FLOATING	Bunga Floating	Perubahan bunga pada periode tertentu	Sales																				
+FOC	Fraud Oversight Committee	Komite yang bertugas untuk mengawasi dan menetapkan kebijakan penanganan fraud yang terjadi di perseroan secara menyeluruh serta menyampaikan laporan, usulan dan rekomendasi kepada perusahaan.	Fraud Risk Management (FRM)																				
+FORKABI	Forum Komunikasi Anak Betawi	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Betawi. Ketua umumnya saat ini, H. Nachrowi Ramli.	REMO	Ormas																			
+Form A	Formulir A	Mobil CBU yang diimport sudah bayar pajak dan bea masuk, selanjutnya tinggal urus BPKB dan STNK	Sales																				
+Form B	Formulir B	Mobil CBU yang di import belum bayar pajak maupun bea masuk	Sales																				
+Form C	Formulir C	Mobil CBU yang sudah punya Form B, setelah bayar pajak maupun bea masuk akan mendapatkan Form C	Sales																				
+Form Negatif Info		Form yang digunakan untuk proses approval negatif info aav yang nantiny akan diajukan berdasarkan level approvalnya dan kasusnya	Underwriting																				
+Form Request MRP		Formulir yang digunakan untuk merequest MRP Used Car	SALES																				
+FPA	Forum Pemuda Aceh	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Aceh. Ketua umumnya saat ini, Sudirman.	REMO	Ormas																			
+FPGU	Form permohonan AGU	form pengajuan pergantian unit	Service																				
+FPI	Front Pembela Islam	Organisasi Massa dengan latar belakang keagamaan terutama agama Islam. Saat ini diketuai oleh Al-Habib Muhammad Rizieq bin Husein bin Syihab, Lc.MA.	REMO	Ormas																			
+FPPD	Forum Persatuan Pemuda Dayak	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Dayak. Saat ini diketuai oleh Marcelius Daniar.	REMO	Ormas																			
+FPPK	Form Permohonan Penambahan Karyawan (online)	Form online ( bisa di request di oracle) yang digunakan untuk request penambahan karyawan biasanya di cabang.	HC LM																				
+FPR	Form permohonan rescheduling	Form proses pengajuan rescheduling	Service																				
+Fraud		Penyelewengan dana	Compliance																				
+Fraud		Merupakan perbuatan curang, ilegal, atau bahkan melawan hukum yang di lakukan oleh sekumpulan orang untuk kepentingan sekelompok orang atau lebih	HC IR																				
+Freight Forwarder		perijinan pelabuhan	Fleet																				
+FSC	Field Survey Coordinator	koordinator surveyor di survey Centro	Surveyor																				
+FSC	Field Survey Coordinator	Jabatan coordinator di bangian survey yang berfungsi untuk monitoring bucket surveyordan melakukan pendistribusian order survey ke bucket surveyor	Surveyor																				
+FSMP	Forum Satria Mandiri Palembang	Organisasi Massa yang awalnya berdiri dengan latar belakang komunitas bela diri pencak silat. Ormas ini diketuai oleh Nasrul.	REMO	Ormas																			
+FTK	Form Taksasi kendaraan	Form yang digunakan untuk melakukan taksasi kendaraan used car	Sales																				
+FU	Follow Up	Tindak lanjut dari ARHO setelah melakukan kunjungan	AR																				
+GA	General Affair 	bertugas untuk mengurus dan memaintain sarana dan prasarana yang ada di ACC 	GA																				
+Gapok	Gaji Pokok	Gaji utama yang diterima karyawan sebelum ditambah dengan tunjangan-tunjangan dan dipotong pajak	HC PCBM																				
+General Officer		pihak-pihak yang membantu kegiatan operasional cabang	Service																				
+GERDAYAK GPDI	Gerakan Adat Dayak Gerakan Pemuda Dayak Indonesia	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Dayak. Saat ini diketuai oleh Onno Nono.	REMO	Ormas																			
+GetComm	Getting Commitment	Acara tahunan untuk lv top management dan leader ACC	CSCO																				
+GIS	Geographic Information System	Merupakan informasi yang didapat dari pemetaan suatu lokasi seperti demografi, market share, dll	Marketing Planning & Control																				
+Gl/OP	Go Live Open	Aplikasi siap divalidasi atau di go live	Underwriting																				
+GMPU	Grand Max Pick Up	Salah satu jenis mobil	Sales																				
+GO Live	GO Live	istilah yang menyatakan bahwa proses persetujuan kredit sudah selesai dan selanjutnya meminta finance untuk membayar AP	Underwriting																				
+Golden Trivia		Program reward TRIP/GOLD untuk SPV dan Salesman Dealer Auto 2000	SALES																				
+goodcust	good customer	status cust dalam keadaan pembiayaan yang bagus	RISK MIS																				
+GOR	Gain On Reposess	Keuntungan ketika unit ditarik dan dijual	Fleet	Nilai inventory-harga jual- biaya rekondisi - biaya yang lainnya. Terjadi jika nilai jual < biaya lelang																			
+GRACE PERIOD	Grace Period	periode dimana customer hanya membayarkan bunga	Sales																				
+GRADING	Grading	Penentuan tingkat resiko dari aplikasi	Fleet Underwriting																				
+Grading Agent		Level Agen Flexi ACC dalam program reward ACC Multibonus	SALES																				
+GRIB	Gerakan Rakyat Indonesia Baru	Merupakan organisasi massa yang dibentuk dan disponsori oleh Prabowo Subianto. Saat ini diketuai oleh Hercules Rosario Marshal.	REMO	Ormas																			
+GROSS LOSS BOOKING		GROSS LOSS penjualan sebuah cabang yang berada di wilayah penanganan cabang lain	AR																				
+GROSS LOSS HANDLING		GROSS LOSS yang ada di wilayah penanganan cabang sendiri	AR	NCI - (WO + LOR)																			
+Guarantee Letter	Guarantee Letter	Surat pernyataan dari perusahaan tempat WNA calon customer ACC bekerja yang menyatakan bahwa pembayaran angsuran hingga lunas akan dilakukan oleh perusahaan tersebut jika individu lalai membayarnya.	Service																				
+Guarantor	Penjamin kredit	Orang yang bersedia menjamin hutang kreditur ke debitur	Underwriting																				
+GVW	Gross Vehicle Weight	berat kotor kendaraan	RCCA																				
+handling		Adalah jumlah account dalam 1 wilayah penanganan cabang	AR																				
+Handling 31-60		jumlah handling 31-60 dalam sebulan	AR																				
+Handling 8-30		jumlah handling 8-30 dalam sebulan	AR																				
+Hangmap		Map berwarna hijau yang digunakan untuk menyimpan dokumen kontrak	Underwriting																				
+Hard Reschedule		perubahan isi kontrak yang menjebabkan meningkatnya resiko kredit dikarenakan penundaan pembayaran angsuran,perpanjang tenor,penambahan Pokok Hutang,Pengunduran Jatuh Tempo,Penambahan total AR,Penambahan besar angsuran per bulan	Service																				
+HE	Heavy Equipment	Segmentasi bisnis alat berat	Fleet																				
+Hiden Account		Account-account yang tersembunyi saat pembayaran jatuh tempo di tanggal yang tidak ada pada bulan tsb. Seluruh account yang aman jika diterima bayar 1 angsuran di akhir bulan, karena dia tidak akan masuk di aging mati bal >7 pada bulan tersebut.	AR	Contoh: Tanggal pembayaran cust. A setiap tanggal 31, jadi pada bulan februari/bulan yang hanya ada 30 hari tidak akan terbaca dan menjadi hiden acc.																			
+High Level Proses		garis besar dalam suatu proses yang terjadi	HC LM																				
+History Scoring		Penilaian sebelumnya dari analisa komite kredit terhadap satu aplikasi kredit	Underwriting (SUW)																				
+HO	Head Office	Kantor Pusat Astra Credit Companies yang terletak di Jl. TB Simatupang No. 90 Jakarta Selatan	HC OD																				
+HRD	High Resume Data	Data pelengkap yang harus diisi oleh SUW. Meliputi co borrower, Bank Acount, Guarantor, Emergency Contact.	Sales 																				
+HRD	human resorce department	divisi yang menangani segala macam tentang karyawan	Sales																				
+IC	Internal Control	Suatu tools yang digunakan oleh ACC untuk memonitor dan mengevaluasi kinerja officer supaya tetap in line dengan goals perusahaan	HC OD																				
+IDEA	Identification, Define, Explore , Action	Suatu Metode Improvement 	HC LM																				
+IDP	Individual Development Plan 	dokumen yang berisikan rencana pengembangan kompetensi dan karakter seseorang.	HC TPM	"Kekuatan dan area pengembangan, bersumber dari People Review, Assessment, dan Performance Appraisal
+Aspirasi karyawan
+Arahan Atasan sesuai kebutuhan bisnis dan ICP
+Rencana Pengembangan
+Development action dan Result
+Catatan hasil atau kemajuan yang dicapai"																			
+IF	Inventory Financing	Salah satu fasilitas yang ditawarkan ACC kepada dealer Used Car dengan menitipkan sejumlah BPKB dan mendapat pinjaman dana sebagai gantinya. Biasanya digunakan untuk melakukan pembelian mobil lelang.	Sales																				
+IGIS	Integrated Geographical Information system	Informasi  ditampilkan secara  terintegrasi bereferensi geografis yang terhubung dengan database perusahaan serta dapat diakses secara real-time	RISK MIS																				
+IJON		subsidi delaer dan ikatan perjanjian kerjasama tertentu	Marketing Support																				
+i-jual	intersert jual	Bunga jual/usulan ACC, bunga yang dibebankan kepada customer	SALES																				
+IK	Instruksi Kerja	Aturan yang mengatur hal teknis pekerjaan	HC OD																				
+IKAR	Ikatan Karyawan ACC	Organisasi yang mewadahi kebersamaan antar kayawan ACC	HC IR																				
+IKBB	Ikatan Keluarga Besar Betawi	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Betawi. Ketua umumnya saat ini Mahmud Buyuzar.	REMO	Ormas																			
+IKD	Imcompletely Knock Down	Mobil yang di import tidak lengkap, dibuat dan dirakit di dalam negri	Sales																				
+IKM	Ikatan Keluarga Madura	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Madura. Muhammad Rawi.	REMO	Ormas																			
+IKMS	Ikatan Keluarga Minang Saiyo	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Minang. Ketua umumnya saat ini, Yunasril Anga.	REMO	Ormas																			
+ILC	Inventory Legal Case	Penarikan unit yang terkait dengan kasus hukum	AR																				
+IM	Internal Memorandum	Surat edaran sebagai panduan di level eksekutif hingga turunannya	Fleet																				
+Improvement		Project yang diberikan kepada program JLDP dan Firstline	HC LM																				
+IMTA	Izin Menggunakan Tenaga Kerja Asing	IMTA merupakan dokumen wajib bagi tenaga kerja asing yang bekerja di Indonesia dalam kegiatan penanaman modal, baik oleh perusahaan asing maupun dalam negeri. Berlaku satu tahun dan dapat diperpanjang. Menjadi salah satu dokumen wajib bagi WNA yang bekerja dalam bidang usaha tersebut yang ingin menjadi customer ACC.	Service																				
+in		Jumlah Account yg masuk ke bucket	AR																				
+INC_GROSS	Income Gross	pendapatan kotor customer	Sales																				
+INC_NET	Income Net	Pendapatan bersih customer	Sales																				
+INC_Ratio	Income Ratio	rasio angsuran terhadap saing	Sales	angsuran/saving																			
+incentive	incentive	bonus yang diberikan kepada seseorang atas suatu pencapaian 	HC PCBM																				
+Indirect Astra	Indirect Astra	produk astra yang dijual oleh dealer non astra grup	Sales																				
+Indisipliner		Pelanggaran tata tertib dan aturan kedisiplinan yang diatur dalam Peraturan Perusahaan dan/atau Perjanjian Kerja, baik yang dilakukan secara disengaja maupun tidak.	HC IR	"1. Absensi (terlambat masuk kerja, mangkir).
+2. Menolak perintah atau penugasan yang layak dari atasan 
+3.Memberikan keterangan/data/informasi yang tidak benar dengan keadaan yang sebenarnya.
+"																			
+Indo Arsip		Pihak eksternal yang membantu penyimpanan dokumen kontrak apabila BPKB customer telah diambil	Underwriting																				
+Initiate		Menginisiasi pembayaran customer yang mengalami overdue sebelum penyetoran angsuran ke teller	AR																				
+Internal Dispute Resolution		Musyawarah melalui penanganan keluhan internal jika timbul perselisihan atau sengketa antar pihak terkait	HC IR																				
+Insentif		Bentuk imbal jasa yang diberikan berdasarkan prestasi	HC PCBM																				
+installment 		pembayaran/cicilan	Sales																				
+insu tenor	insurance tenor	jumlah taun penggunaan asuransi 	sales																				
+Insurance Management		memastikan hal yang beresiko sudah diasuransikan	RISK POL																				
+Insurance Universe		memonitor dan melihat jumlah biaya asurans dan preminya	Underwriting																				
+Integrity		Salah satu value ACC : Berani mentaati peraturan berlandaskan asas dan etika yang berlaku serta menunjukkan sikap profesional dan bertanggung jawab	HC OD																				
+INTERNAL AAB	Asuransi Internal AAB	Pembayaran asuransi AAB melalui ACC	Service																				
+Internal Audit	Internal AUdit	pihak-pihak auditor yang melakukan audit terhadap proses-proses bisnis yang ada di dalam ACC	Internal Audit																				
+INV	Inventory	Unit sudah masuk ke Inventory	AR																				
+inv acct	inventory account	flag deskripsi account inventory atau tidak untuk bulan sekarang 	AR																				
+Inventory officer	Inventory Officer	pihak-pihak yang bertanggungjawab atas pengelolaan kendaraan tarikan	Service																				
+INVS	Inventory Selling	Unit Inventory yang sudah berhasil dilelang	AR																				
+IOH	Inventory On Hand	"Mobil-mobil yang 
+terdapat di pool 
+sampai saat ini"	Service																				
+IPK	Ikatan Pemuda Karya	Organisasi Massa yang merupakan himpunan pemuda, pekerja, pelajar, dan mahasiswa yang dilatarbelakangi kekaryaan serta menjunjung tinggi UUD 1945 dalam visi-misinya. IPK didirikan oleh Kakanda Olo Panggabean di Medan, 28 Agustus 1969. Ketua umum IPK saat ini, Budi Panggabean. 	REMO	Ormas																			
+IR	Instalment Ratio	Nilaiuntuk perbandingan antara penghasilan dari borrower dengan nilai angsuran	Sales																				
+ISO	Isuzu Sales Operation	Dealer direct yang bekerjasama langsung dengan ACC dalam penjualan unit brand Isuzu	SALES																				
+i-std	interest standard	Bunga standar dari perusahaan yang dapat dijual oleh sales dengan batas minimum tertentu	SALES																				
+ITO	Inventory Turnover	Perputaran inventory yg masuk dengan yang keluar	Service	IOH/ Unit yang dijual atau ditebus																			
+ITO	inventory turn over	Perbandingan mobil yang keluar pool (ditebus, lelang) dengan mobil yang masuk pool	Service																				
+ITQC	Intergrity, Teamwork, Quality, Customer Satisfaction	Corporate Values ACC yang menjadi pedoman dalam menjalankan aktivitas bisnisnya	HC LM																				
+Jateng	Jawa Tengah	Coverage Area ACC di Pulau Jawa bagian Tengah	umum																				
+Jatim	Jawa Timur	Coverage Area ACC di Pulau Jawa bagian timur	umum																				
+JB	Janji Bayar	Janji yang diberikan oleh customer setelah overdue	AR																				
+JD Toyota	Johny Darmawan Toyota	Dealer rekanan Astra yang dimiliki oleh Bp Johny Darmawan	umum																				
+JF	Join Finance	kesepakatan pembiayaan antara bank dengan ACC untuk membiayai AF	RISK POL																				
+JLDP	Junior Leadership Development Program	Program leadership yang didedikasikan untuk menciptakan karyawan astra di level coordinator management dari sumber karyawan eksternal	HC LM																				
+JP	Join Promo	Dealer mengajukan proposal untuk support pameran/ event kepada cabang. Support Dealer berupa Dana. 	Sales 																				
+Jual putus		Mobil dijual ke makelar,dan makelar menjual ke orang lain	AR																				
+juklak 	petunjuk pelaksanaan	suatu modul yang memberikan petunjuk kegunaan atau petunjuk pengoperasian	umum																				
+Kabeng	Kepala Bengkel	Salah satu posisi dalam struktur Astra direct baik TSO, DSO, atau ISO. Bertanggung jawab penuh terhadap semua kegiatan di bengkel, termasuk administrasi dan bertanggung jawab langsung ke kepala cabang.	Sales																				
+Kabinet		Tempat penyimpanan dokumen kontrak	Underwriting																				
+Karoseri	Karoseri	rumah-rumah kendaraan yang dibangun di atas rangka/chasis mobil atau chasis khusus bus ataupun truk.	Sales																				
+KTP	Kartu Tanda Penduduk	Kartu bukti bahwa customer terdaftar sbg penduduk Indonesia	Underwriting																				
+Kartu Pelanggan		Kartu yang didapat oleh customer ketika aplikasi pengajuan kreditnya telah go live. Kartu ini berisi no langganan dan nama customer yang nantinya akan digunakan saat pembayaran angsuran	Service																				
+Kategori E,K,O	Extravaganza, Kurang Bagus, Oh My God	Kategori mobil dalam multiguna yang dibagi menjadi 3 E(fast moving), K(Fast-slow), O (slow moving)	Sales																				
+KD Delaer	Kode dealer	Kode yang diberikan kepada dealer dalam sistem 	Sales																				
+Kembang Latar	Komunikasi Masyarakat Membangun Lapisan Terbawah	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Betawi. Ketua umumnya saat ini Bahyuddin.	REMO	Ormas																			
+Kertas kuning		Kertas PPJF	Underwriting																				
+KEUR	KEUR	Tanda Layak Jalan bagi kendaraan komersial. Wajib ada ketika melakukan taksasi.	Sales 																				
+KHM	Ketentuan Hidup Minimum	Standar ketentuan hidup minimun debitur (customer) yang ditetapkan ACC yang digunakan untuk referensi dalam menganalisa kondisi keuangan customer 	Underwriting																				
+KIBAS		Reward yg diberikan untuk ARRH, ARMH, REMO, RMC	AR																				
+kind		Salah satu jenis kendaraan seperti 1 TON MB, 1 TON PU	Sales																				
+KIPEM	Kartu Identitas Penduduk Musiman	Kartu yang berlaku bagi penduduk pendatang yang berfungsi seperti KTP, misal untuk membuka rekening bank, membuat SIM, atau mengambil kredit. Berlaku selama 3 bulan dan dapat diperpanjang.	Service																				
+KIR		Pengujian kendaraan bermotor khususnya pada unit-unit komersil.	Sales																				
+KITAP	Kartu Iijn Tinggal Tetap	kartu yang diperlukan untuk WNA sebagai salah satu syarat kredit mobil	Underwriting																				
+KITAS	Kartu Ijin Tinggal Sementara	kartu ijin tetap sementara	Underwriting																				
+KLIRING		Proses pencairan GIRO	Service																				
+Kliring Giro		Mengantarkan slip giro/check ke bank setiap harinya untuk di cairkan.	Service																				
+KMK	Kredit Modal Kerja	Kategori pembiayaan untuk modal kerja	Fleet																				
+Komite kredit	Komite kredit	Semua pihak yang berwenang menilai kelayakan kredit	Underwriting																				
+KOSGORO	Kesatuan Organisasi Serbaguna Gotong Royong	Kosgoro merupakan ormas yang menjadi salah satu KINO (Kelompok Induk Organisasi) bersama SOKSI dan MKGR yang mendirikan partai Golkar. Saat ini ormas Kosgoro memiliki banyak sayap ormas, salah satunya AMPG yang diketuai oleh Yorrys Raweyay. Ketua Kosgoro sendiri saat ini adalah Agung Laksono.	REMO	Ormas																			
+KPI	Key Performance Indicator	Persentase target minimal yang harus dicapai oleh Cabang dan Individu untuk mendapatkan sales yang baik dan mendapatkan insentif	HC OD																				
+KPMR	Kualitas Penilaian resiko	menilai resiko- resiko dan mencocokan sesuai dengan visi misi perusahaan	RISK POL																				
+Kreditur		Pihak yang memberikan kredit	Operation																				
+Kremo	Kredit Memo	semua informasi yang dibutuhkan dalam kebutuhan ringkas menentukan keputusan status approval/reject	AR																				
+K-S	Kolmogorov-Smirnov	Merupakan suatu alat statistik untuk mereview model scoring di MIS	RISK MIS																				
+KSJ	Kendaraan Siap Jual	Kendaraan inventory yang sudah siap dijual	Service																				
+KTP	Kartu Tanda Penduduk	Salah satu syarat untuk mengajukan kredit	Underwriting																				
+Kurir		Pihak eksternal yang membantu proses pengiriman kontrak kepada customer	Underwriting																				
+Kwitansi blanko		kwitansi yang ditanda tangani customer yang diserahkan kepada ACC sebagai persyaratan pengambilan BPKB oleh ACC ke dealer	Service																				
+Kwitansi DP	Kwitansi Down Payment	Kwitansi DP yang telah dibayarkan oleh customer	Underwriting																				
+Kwitansi Pelunasan	Kwitansi Pelunasan	Kwitansi yang berisi jumlah pelunasan yang akan dibayarkan ACC kepada dealer	Underwriting																				
+L9MV	Last 9 Month Valid	Total valid selama 9 bulan terakhir	Sales	Jumlah Valid dari 9 bulan terakhir																			
+Lapju	Laporan Kunjungan	Laporan yang dibuat ARHO dan ARRO setelah kunjungan mengenai hasil kunjungan 	AR																				
+Lapping angsuran		Melakukan tindakan penggelapan angsuran	Service																				
+LAPS	Lembaga alternatif penyelesaian sengketa	Suatu lembaga dimana bertugas menyelesaikan permasalahan terkait sengketa	umum																				
+Laskar Bali	Laskar Bali	Salah satu ormas terbesar di Bali yang sering berseteru dengan Baladika. Menjalankan bisnis pengamanan pada tempat-tempat wisata di Bali. Jasa ormas terutama pada level korlap sering digunakan untuk menjadi PEOJF. Beberapa officer di AR juga menjadi bagian dari ormas ini. Saat ini diketuai oleh Gung Suma.	AR																				
+LB	Laskar Bali	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Bali. Saat ini ketua umumnya, Gung Alit.	REMO	Ormas																			
+LC	Late Charge	Biaya yang muncul apabila customer terlambat melakukan pembayaran lewat dari tanggal jatuh tempo, nilainya selalu sama setiap bulan.	AR	Rp. 20.000 per bulan																			
+LCV	Like comercial vehicle 	istilah untuk mobil-mobil yang digunakan untuk transportasi sehari-hari	sales																				
+LDP	Leadership Development Program	Program pengembangan sumber daya manusia sebagai calon leader	HC LM																				
+LEASEBACK		Menjaminkan asset yang sudah ada	Sales																				
+Legend		Keterangan yang dilampirkan dalam setiap report maupun project	umum																				
+lensacc		Official akun instagram yang dimiliki ACC untuk menjangkau para pengguna sosial media (instagram)	umum																				
+LGD	Lost Given Default	estimasi loss yang terjadi dihitung berdasarkan MRP	RISK MIS																				
+LHK 	Laporan kunjungan harian	rekapan data kunjungan harian yang digunakan untuk memantau kinerja ARHO 	AR																				
+Liabilities		Total nilai hutang perusahaan	Finance																				
+Litigasi		Bagian Hukum dari ACC apabila ada kasus atau masalah yang terkait dengan hukum	Litigasi																				
+LK	Luar kota	Wilayah yang berada dalam jarak lebih dari 60 Km dari Kantor ACC terdekat	AR	LK 1 = jarak 60 - 120 Km, LK 2 = jarak 120-180 km dari kantor acc terdekat																			
+LKNB	Lembaga Keuangan Non Bank	Bentuk badan usaha yang tidak termasuk dalam klasifikasi bank namun masih di bawah naungan OJK	umum																				
+LM	Last month		AR																				
+LMI	Laskar Manguni Indonesia	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Minahasa. Saat ini ketua umunya Pdt. Hanny Pantouw.	REMO	Ormas																			
+LMPI	Laskar Merah Putih Indonesia	Organisasi Massa yang didirikan oleh Edi Hartawan. Saat ini ketua umumnya Mayjend. Stamsu Djalal, S.H.,M.H.	REMO	Ormas																			
+Loan & Bonds		Hutang bank dan obligasi perusahaan	Finance																				
+Loan detail		Detail perhitungan pembiayaan kepada customer	Sales																				
+LOI	Letter Of Intent	Surat yang menunjukkan adanya persetujuan kredit	Fleet Marketing																				
+LOR	Loss On Reposition	Loss ketika unit ditarik dan dijual	Fleet	Nilai inventory-harga jual- biaya rekondisi - biaya yang lainnya. Terjadi jika nilai jual > biaya lelang																			
+LOR BOOKING		LOR penjualan sebuah cabang yang ada di wilayah penanganan cabang lain	AR																				
+LOR HANDLING		LOR yang ada dalam wilayah penanganan cabang sediri	AR																				
+Low level process		Gambaran proses kerja yang merupakan penjabaran dari SIPOC	HC LM																				
+LP	Laporan polisi	Aduan yang dibuat kepada pihak berwajib atas suatu kasus tertentu.	AR																				
+LS	Leasing	Jenis perjanjan kredit sewa guna usaha	Sales																				
+LTKM	Laporan Transaksi Keuangan Mencurigakan	Laporan jika terjadi transaksi mencurigakan yang dapat merugikan keuangan negara (Money Loundry)	Litigasi																				
+LTKT	Laporan Transaksi Keuangan Tunai	Laporan jika didapati pembayaran / pelunasan lebih dari 500 juta secara langsung	Litigasi																				
+LU	Lama usaha	Lama usaha seseorang (untuk wiraswasta)	Underwriting																				
+Luxury Car		Unit dengan jumlah AF yang melebihi >500. Aproval harus sampai dengan COO	Underwriting																				
+Mailing History		Menu di dalam AOL untuk melihat history pengiriman surat	AR																				
+Maker	Masa Kerja	Lama kerja seseorang di suatu perusahaan 	Underwriting																				
+MAL	Meeting Action Log	Tool monitoring di deskcoll	AR																				
+Mandatory Data	Mandatory Data	Data yang wajib dilengkapi oleh customer sebagai persyaratan pengajuan kredit	Underwriting																				
+MAPANCAS	Masyarakat Pancasila Sakti	Organisasi Massa yang merupakan sayap daripada ormas PP. Organisasi Massa ini bersifat dependen, atau tergantug, atau mengikuti komando dari ketua umum Pemuda Pancasila.	REMO	Ormas																			
+Marcom	Marketing Communication	Sarana yang digunakan perusahaan dalam upaya untuk menginformasikan, dan meningkatkan konsumen langsung atau tidak langsung tentang produk yang perusahaan jual	Marketing Support	Marcom yang ada di ACC yaitu 1. Merchandise 2. Desain																			
+Marex	Marketing Exception	Keterangan data perhitungan kredit (bunga, tenor, rate asuransi, dan unit) untuk pengambilan keputusan kredit di jalur marketing	Sales																				
+Market Booking ACC		Ruang lingkup pasar yang menjadi booking ACC	Operation																				
+Matel	Mata elang	Pihak eksternal yang bekerja sama dengan ACC dalam mencari kendaraan yang raib maupun WO	AR																				
+MCS	Management Control System	Proses yang digunakan oleh managemen dalam merencanakan dan mengontrol aktivitas organisasi, serta memastikan semua sumberdaya bekerja secara efektif dan efisien untuk mencapai tujuan perusahaan	MCS																				
+MD	Mutasi Debit	perpindahan dana keluar dari rekening customer	Underwriting																				
+MDE	Minimum Data Entry	Minimun Data yang harus di entry oleh SUW. Yaitu data borrower, Loan Detail, Bisnis borrower dan Present co. 	Sales 																				
+MDOP	Minimum Data Entry Open	Proses input data customer sebelu pre analisa	Underwriting																				
+merek		Salah satu jenis kendaraan seperti avanza, xenia	Sales																				
+MES	Meeting Effectivenes Scoring	Tool monitoring di deskcoll 	AR																				
+Messenger		Pihak yang bertanggung jawab untuk kepentingan pengantaran ACC	Service																				
+MGM	Member Get Member	Program Reward yang diberikan untuk customer ACC yang mereferensikan produk c2c financing	Sales																				
+MI	Marketing INtelligence	Pihak-pihak dari departemen Marketing planning & control yang menggali informasi dari pesaing (data kompetitor)	Marketing Planning & Control																				
+Minuta		Bukti sementara yang diserahkan oleh notaris ke ACC sebagai bukti proses pembuatan fidusia (AJF/SJF), dan akan ditukar / diambil kembali setelah fidusia selesai	Underwriting																				
+MIS	Management Information system	pengelola data di RISK	RISK MIS																				
+Mistery shopper		Pihak diluar ACC yang dimintakan perbantuan nya untuk memberikan penilaian kepada pelayanan yang diberikan ACC	Service																				
+Mitigasi		Merupakan suatu bentuk pencegahan atas suatu risiko yang berpotensi memberikan dampak negatif	RISK MIS																				
+Mitra ACC		Pihak yang bekerjasama dengan ACC ( bukan termasuk karyawan  dalam hal mencari aplikasi multiguna	Sales																				
+MK	Mutasi Kredit	Aliran dana masuk yang dimiliki customer	Underwriting																				
+MOB	Month of Booking	bulan berjalan dari waktu golive/ valid	RISK MIS																				
+MOCA	Mobile Collection	Aplikasi untuk AR area BPR, denan sudah menggunakan gadget dan online	AR																				
+Moduler		Modul-modul yang digunakan untuk pelatihan dan training user dan harus terupdate dalam jangka waktu tertentu (dalam periode)	HC LM																				
+MORNING BRIEFING	 Pengarahan seluruh man power di pagi hari	Pengarahan dan istruksi kerja yang diberikan oelh head departemen untuk seluruh komponen man power sebagai acuan kegiatan yang akan dilakukan pada hari itu	Underwriting (SUW)																				
+Morning huddle		Kegiatan yang dilakukan setiap harinya di cabang untuk menjabarkan target harian, kendala-kendala, maupun memberikan semangat dan motivasi	MCS																				
+MPE	Man Power Existing	Jumlah sumber daya manusia yang ada sekarang	HC OD																				
+MPKT	Memo Pengeluaran Kendaraan Tarikan	Dokumen yang berisi tentang pemberitahuan dan atau perintah kepada petugas jaga pool untuk melakukan pengeluaran dan atau penyerahan kendaraan tarikan	Service																				
+MPP	Man Power Plan	Perencanaan sumber daya manusia	HC OD																				
+MRES		Kontrak yang di reschedule akan berubah statusnya menjadi MRES	AR																				
+MRP	Market Retail Price	Harga pasar yang digunakan sebagai acuan untuk menjual unit	National Remarketing																				
+MSCP	Market Share to Credit Portion	Membandingkan share yang didapatkan dengan sesama perusahaan pembiayaan yang dimiliki delaer	Sales	Tambahin cara perhitungan																			
+MSCP	Market Share Credit Portion	Membandingkan share yang didapatkan dengan sesama perusahaan pembiayaan yang dimiliki delaer	Sales	MSCP = DO ACC / DO kredit																			
+MSCP OTHERS		Bersarnya porsi kredit yang dimiliki kompetitor ACC	Sales 																				
+MSTA	Market Share To Astra	rasio jumlah pernjualan unit ACC dengan Unit Astra	Sales	unit ACC/ unit Astra																			
+MSTM	Market Share To Market	rasio jumlah penjualan unit ACC dengan Pasar (ALL)	Sales	unit ACC/ Unit Market(all)																			
+MSTR	Market Share To Retail	Membandingkan share yang didapatkan dengan keseluruhan penjualan delaer yang menggunakan pembiayaan dan cash	Sales	Valid ACC/DO (Credit & Cash)																			
+MT	Management Trainee	Program leadership yang didedikasikan untuk menciptakan karyawan astra di level head management dari sumber karyawan eksternal	HC LM																				
+MTD	Month to Date	Rekapitulasi productivity bulanan	Underwriting																				
+Multiguna		Salah satu lini brand acc untuk pembiayaan kembali dengan menjaminkan BPKB ke ACC	Sales																				
+Multikontrak	Multikontrak	Customer yang dalam satu masa kredit memiliki lebih dari 1 kontrak	Underwriting																				
+Murabahah		asas hukum Islam/syar'i yang diterapkan dalam perjanjian pembiayaan kredit berbasis syariah (ACC Syariah)	Underwriting																				
+MX CL	Marex Close	Status aplikasi pada sistem yang menerangkan aplikasi sudah selesai melalui proses approval marketing	Underwriting																				
+MX OP	Marex Open	Status aplikasi pada sistem yang menerangkan aplikasi masuk melalui jalur approval marketing	Underwriting																				
+Mystery Call		taktik yang digunakan oleh marketing intellegence untuk mendapatkan informasi dari CSO competitor, contoh : presentase rate dan asuransi	Marketing Planning & Control																				
+Mystery Shopper		taktik yang digunakan oleh marketing intellegence dengan cara kunjungan ke dealer sebagai customer dan mendapatkan informasi	Marketing Planning & Control																				
+N/A	Not Avaliable	Kondisi ketika data tidak tersedia	umum																				
+Naik Banding		Upaya yang dilakukan oleh marketing untuk mengubah keputusan operational dengan memenuhi berbagai persyaratan tertentu	Underwriting (SUW)																				
+Nama Funding		Perusahaan yang memberikan pembiayaan dalam kredit tersebut	Sales																				
+NASA	Nasional Satu Account	Penggabungan account rekening se nasional untuk kebutuhan transaksi via rekening	Service																				
+NBM	Nilai Benefit Maksimal	Nilai refund maksimal yang diberikan ACC kepada dealer setiap aplikasi	Sales	15% x Total Pendapatan																			
+NCI	Nett Cash In	Pendapatan bersih yang didapat dari pembayaran customer yang sudah dianggap WO	AR																				
+NCI booking	Nett Cash In booking	NCI penjualan sebuah cabang yang ada di wilayah penanganan cabang lain	AR																				
+NCI handling	Nett cash in handling	NCI yang ada di dalam wilayah penanganan sebuah cabang	AR																				
+NCS		kurir yang bekerja sama dengan ACC dalam proses pengiriman kontrak ke customer	Underwriting																				
+Negative AAV		Kondisi dimana terdapat info negatif dari cust perihal kredit yang diajukan pada saat proses AAV Centro dilakukan	Underwriting																				
+NEOP	New Employee Orientation Program	Self learning yang harus diambil dan lulus untuk para karyawan baru yang berisi tentang basic knowledge tentang perusahaan	HC LM																				
+NEOP	New Employee Orientation Program 	adalah program pengenalan tentang perusahaan dan knowledge yang berhubungan dengan pekerjaan karyawan. 	HC LM	"cabang: I-Pro
+HO: ABT"																			
+Netloss		rugi bersih ACC	RISK MIS	LOR + WO + NCI																			
+New F9PD		Account baru yang asuk pada bucket penanganan yang angsurannya masih di bawah 9 bulan	AR																				
+NIK	Nomor induk karyawan	Nomor urut yang diberikan perusahaan ke karyawan	umum																				
+No. Agreement	Nomor Agreement	Nomor Perjanjian Kontrak	Underwriting																				
+No. Mesin	Nomor mesin	Nomor individual untuk menandakan jenis dan nomor produksi mesin	Sales																				
+No. Rangka	Nomor Rangka	Nomor individual untuk rangka kendaraan	Underwriting																				
+non alpha 		KPI yang menjadi tanggungjawab head tetapi yang tidak berhubungan dengan insentif	Operation																				
+NON ASS	Non-Insurance	Tidak menggunakan asuransi	Service																				
+NON BPR	NON Business Process Reenginering	Proses underwritting yang berlangsung secara sekuensial	Underwriting																				
+Non Productivity		Parameter pengukuran performance seluruh karyawan ACC	MCS	Pengukuran melalui KPI																			
+NONA	NON Astra	produk di luar astra grup	umum																				
+Nota		Bukti-bukti usaha, seperti bon belanja dan kwitansi	Underwriting																				
+NPAT	Net Profit After Tax	Pendapatan bersih yang diterima perusahaan setelah pengurangan pajak	Finance	PBT - Tax																			
+NPF	Non Performing Finance	Kredit macet pada perusahaan pembiayaan 	AR																				
+NPK	Nomor Pokok Karyawan	Nomor yang digunakan untuk membedakan satu karyawan dengan karyawan lain	HC LM																				
+NPL	Non Performing Loan	Angsuran customer yang tidak terbayar tetapi harus dibayarkan oleh ACC (Kredit Macet)	Marketing Planning & Control																				
+NPWP	Nomor Pokok Wajib Pajak	salah satu persyaratan valid	Underwriting																				
+Ocean		Tingkat persaingan dalam mandapatkan aplikasi oleh ACC dengan perusahaan leasing lainnya yang berada pada satu wilayah tertentu	Sales																				
+Ocean		Klasifikasi SO/SUW berdasarkan tingkat kompetisi di setiap Cabang	Sales	Blue, Purple, Red																			
+OD	Operation dashboard	Operation dashboard	AR																				
+OH	Operation Head	Jabatan cabang yang menangan Service, underwriting yang ebrtanggung jawan langsung kepada RROH	Operation																				
+OJK	Otorisasi Jasa Keuangan	Lembaga negara yang berfungsi menyelenggarakan sistem pengaturan dan pengawasan yang terintegrasi terhadap keseluruhan kegiatan didalam sektor jasa keuangan	umum																				
+OJT	On The Job Training	Kegiatan traning dalam suatu divisi/cabang	HC LM																				
+OJTSF	On The Job Training Specific 	On The Job Training Spesifik	HC LM																				
+OJTVF	On The Job Training Varius	On The Job Training Various	HC LM																				
+OPEN		status kontrak jika tidak ada Surat Kuasa penarikan	AR																				
+Open Legal 		Status unit inventory dalam proses litigasi internal	Litigasi																				
+Operating Lease	Operating Lease	Kegiatan sewa guna usaha dimana lease pada akhir tenor tidak mempunyai hak opsi untuk membeli objek SGU.	Sales 																				
+Operation Dashboard		Merupakan laporan summary pencapaian cabang setiap bulannya yang dikirimkan ke OH	umum																				
+Opex	Operational expense	Merupakan budget yang di berikan ke tiap cabang setiap minggu untuk kebutuhan-kebutuhan operational.	Service																				
+OPEX	Operational Expenditure	Alokasi anggaran yang untuk operasional perusahaan	Operation																				
+Order Survey		permintaan untuk melakukan survey kepada surveyor	Sales, Basemaster																				
+OSA	Outstanding Amount	Jumlah AR yang dikelola	AR																				
+OSR	One Sheet Report	jenis report yang dikeluarkan oleh departemen risk yang menjelasikan kontribusi dealer yang pernah memasukan aplikasi ke ACC	Operation																				
+OSR sales	One Sheet Report	Form approval manual yang diajukan apabila aplikasi diajukan lebih dari 5 unit dan lebih dari 1,5 M	Sales																				
+OT	Otorisasi	Otorisasi	AR																				
+OTJVF	On The Job Various Function	Tahap pelatihan bagi MT (Management Trainee) dengan cara menempatkan peserta ke cabang-cabang ACC Nasional dan diwajibkan untuk melakukan pemetaan (mapping) dan sebagai evaluasi akhir diwajibkan pula membuat presentasi sebagai laporan	HC LM																				
+Otorisasi		Proses pemberian izin oleh BM untuk mencetak PPJF	Underwriting (SUW)																				
+OTR	Off The Road	Harga beli mobil tapi tidak termassuk dokumennya	Sales																				
+out		Account yang keluar dari sebuah bucket	AR																				
+OV	On valid 	status dalam aplikasi yang menandakan bahwa aplikasi tersebut sedang proses untuk pembayaran(valid)	Underwriting																				
+OV OP		Sudah valid dan status angsurannya open 	Underwriting																				
+OVD	Overdue	Lama hari keterlambatan pembayaran angsuran terhitung sejak tanggal jatuh tempo	AR																				
+OVERCAP OVERRIDE		Suatu kondisi dimana cap override suatu cabang telah habis, tetapi masih ingin di makan	Sales																				
+overcaps		hak yang digunakan untuk sales memakan aplikasi dalam batas area	Sales																				
+Overdue		Lewat tanggal jatuh tempo	AR																				
+override		hak yang digunakan untuk sales memakan aplikasi dalam batas cabang	Sales																				
+P3R01	Paket Peugeot 3008	Paket kredit ACC untuk unit type Peugeot 3008, tenor 1-4 thn dp 20%, 5 thn DP 25%	SALES																				
+Pakang		Broker yang biasa beroperasi untuk kendaraan used	Sales																				
+Paket Cermat		Paket Kredit khusus untuk Daihatsu Xenia atau Ayla dengan mekanisme pembayaran awal TDP yang lebih ringan (karena mendapat Subsidi DP dari Daihatsu dan ACC), namun memiliki nominal angsuran yang sedikit lebih tinggi dibandingkan Paket Reguler.	Sales																				
+Paket Resolusi		Paket kredit yang disediakan ACC untuk membantu penjualan dealer dengan DP rendah	SALES																				
+PAO	Problem Account Officer	Departemen yang menangani AR Fleet ovd >60	Fleet																				
+Pareto		Sebutan untuk dealer yang memberikan >=75% aplikasinya kepada ACC untuk dibiayai kreditnya.	Sales																				
+Payment		Pembayaran	AR																				
+Payment Details		Menu di dalam AOL untuk melihat cara pembayaran customer	AR																				
+Payment Schedule		Laporan pembayaran customer	AR																				
+PB	Pendekar Banten	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Banten. Saat ini ketua umumnya H. Tubagus Endang S.	REMO	Ormas																			
+PBP	Permata Bebas Proteksi	digunakan customer untuk pembayaran angsuran secara otomatis (Autodebet)	Underwriting																				
+PBT	Profit Before tax	Pendapatan kotor perusahaan yang dihitung sebelum pajak	Finance	RACV - OPEX																			
+PC	Pay current	Pembayaran hingga tidak ada tunggakan	AR																				
+PDC	Pay Due Comeback 	Nilai yang dibayarkan kembali ke dealer dari ACC sebagai keuntungan tambahan dari selisih bunga	Sales	{(Rate Jual – Rate Standard) x Tenor x PH}/{1 + (Rate standard x Tenor)}																			
+PDC	Post Date Cheque	Giro dengan tanggal pencairan dan nomor rekening pencairan	Service																				
+PDCA	Plan Do Check Action	Merupakan siklus aktifitas yang menekankan pada perencanaan hingga monitoring serta evaluasi proses	HC LM																				
+PEKAT IB	Pembela Kesatuan Tanah Air Indonesia Bersatu	Organisasi Massa yang berlatar ideologi nasionalis. Ormas ini memiliki cabang-cabang yang tersebar juga hampir di seluruh Indonesia. Saat ini diketuai oleh H. Markoni Koto.	REMO	Ormas																			
+Pembatalan inventory		Proses pembatalan sistem karena unit akan ditebus	AR																				
+Penalty balance		Total denda kumulatif dalam suatu periode yang belum terbayar	AR																				
+Pending lelang		proses penundaan lelang karena akan ditebus lagi	AR																				
+Pending tagihan		Dokumen customer yang belum dilengkapi dan menyebabkan aplikasi tidak dapat valid	Underwriting																				
+Penjaga Pool	Penjaga Pool	pihak-pihak yang menjaga pool	National Remarketing																				
+PEOJF	Petugas Eksekusi Objek Jaminan Fidusia	Petugas collector pihak ke3	AR																				
+PEOJF	Petugas Eksekusi Objek Jaminan Fidusia	Petugas eksternal ACC yang bertugas melakukan penarikan unit,  koordinasi di bawah REMO	REMO																				
+Perhitungan Pokok Hutang		jumlah hutang yang tersisa sete;ah membayarkan uang muka/DP dan ditambah dengan premi asuransi	Sales	Rumus = OTR - DP + Premi asuransi																			
+Periode Sales		Waktu penjualan dalam suatu cabang dalam jangka per bulan	Sales																				
+Perusahaan Afilasi	TIDAK ADA	Semua perusahaan yg berada di bawah ASTRA 	umum																				
+Petir	Pemuda Teguh Indonesia Raya	Orgasnisasi Massa yang Nasionalis Pancasilais, yang diketuai oleh Aloysius Hieng.	REMO	Ormas																			
+Petty Cash		Kas kecil atau petty cash adalah uang tunai yang di sediakan untuk membayar pengeluaran-pengeluaran yang jumlahnya relatif kecil dan tidak ekonimis bila dibayar dengan cek	Service																				
+PG	Personal Guarantee	Pengikatan perorangan terhadap kontrak pembiayaan	Fleet																				
+PH	Pokok Hutang	Nilai hutang awal yang didapatkan dari harga OTR - DP	Sales	PH = OTR - DP																			
+PIC	Person in charge	Penanggung Jawab	umum																				
+PICA	Problem Identification and Corrective Action		umum																				
+PICA Logs	Problem Identification Corrective Action Logs	Kegiatan untuk melihat masalah yang ada dan mencari jalan keluar/ hal apa yang akan dilakukan untuk memperbaiki masalah tersebut	umum																				
+Pihak ke-3	Pihak ke-3	Orang yang tidak tinggal satu rumah dengan customer, informasi dari pihak ke-3 digunakan untuk survey	Underwriting																				
+Piloting		Merupakan bentuk pengujian sebagian atas suatu kebijakan baru sebelum diimplementasikan secara keseluruhan	HC LM																				
+PJTKI	Perusahaan Penyedia Jasa TKI	Perusahaan yang menyediakan TKI	Operation																				
+PKB	penerimaan karyawan baru 	form yang digunakan oleh acc yang diberikan kepada calon karyawan baru sebagai salah satu berkas kelengkapan karyawan baru 	Sales,UW																				
+PKS	Perjanjian Kerja Sama	Dokumen yang menunjukan kerjasama antar ACC dengan pihak lain secara legal	HC IR																				
+PKWT	Perjanjian Kerja Waktu Tertentu	Perjanjian kerja antara pekerja dengan perusahaan untuk mengadakan hubungan kerja dalam waktu tertentu	HC IR																				
+Plafon dealer		cara OH mengontrol supaya SP BPKB dari dealer used car yang jual new car jangan sampai lebih dari 90 hari	Operation																				
+Plafon kredit		Jumlah utang yang sebenarnya yang harus dibayarkan oleh kreditur	Sales																				
+Planning Cycle		Rekonsiliasi setting target kerja dan budget	CSCO																				
+PMN	Prinsip Mengenal Nasabah	Prinsip untuk menegenal nasabah 	Compliance																				
+PNBP	Penerimaan Negara Bukan Pajak	Seluruh penerimaan negara yang asalnya bukan dari pajak, sering juga disebut dengan non-tax.	Finance																				
+PNC	Pay not current	Pembayaran yang masih memiliki sisa angsuran	AR																				
+PO	Purchase Order	Surat pengajuan pembelian	Fleet Marketing																				
+PO	Purchase Order	Sebuah dokumen yang dikirimkan ke Dealer untuk tanda bahwa ACC telah melakukan pemesanan unit.	Sales 																				
+POCO	Potensi Compre	Daftar customer yang akan overdue diatas 30 hari pada saat tanggal akhir setiap bulan	Underwriting																				
+Polis Asuransi		Surat yang berisi rincian perjanjian asuransi terhadap debitur selama masa kredit dengan ACC	Service																				
+Pool	Pool	sebuah tempat dimana ACC menyimpan unit tarikan	National Remarketing																				
+Portofolio Booking	Portofolio Booking	Profil sebaran customer ACC, rata- rata customer melakukan booking dengan DP berapa.	Sales 																				
+Potensi aliran		Customer yang akan mengalir ke bucket selanjutnya	AR																				
+Potensi compre		Unit F9PD yang akan mengalir ke bucket ARRO	AR																				
+Potensi repo		Prediksi repo	AR																				
+PotSS	Potensi Snapshot	Potensi snapshot akhir bulan (EOM) dibahas ketika meeting f9pd cabang	AR																				
+Powo	Potensi write Off	Potensi resiko yang dimiliki AR Management karena kendaraan berpotensi untuk penghapusan account	AR																				
+POWO	Potensi WO	Status akun yang berpotensi menjadi WO pada status tanggal tertentu	REMO																				
+PP	peraturan perusahaan	sebuah peraturan dimana di dalamnya terdapat tata tertib yang berlaku di perusahaan	Compliance																				
+PP	Pemuda Pancasila	Organisasi Massa yang mengklaim berdiri berlandaskan ideologi pancasilais. Awalnya ormas ini dibentuk sebagai organisasi paramiliter oleh Jend. Abdul Haris Nasution pada tahun 1959. Saat ini PP diketahui sebagai organisasi massa terbesar di Indonesia karena jangkauannya yang begitu luas dengan wilayah, cabang, bahkan ranting yang tersebar hampir di seluruh provinsi Indonesia. Ketua umumnya saat ini Japto Soerjosoemarno.	REMO	Ormas																			
+PP Haruku	Pemuda Pendekar Harapan Maluku	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Maluku Utara, berbasis dari Kota Ambon, meluas hingga ke Ternate, dan Morotai. Ormas ini didirikan oleh Basri Sangadji, kini diketuai oleh Ongen Sangadji.	REMO	Ormas																			
+PPAP	Perhitungan Pembayaran AP	Detil jumlah pencairan ke developer	Fleet																				
+PPATK	Pusat Pelaporan Analisis Transaksi Keuangan	Lembaga intelijen bidang keuangan	RISK MIS																				
+PPD 	Permohonan Pembayaran Dipercepat	Proses prepayment dari customer yang ingin melakukan pelunasan	Service																				
+PPHK	Perjanjian pengalihan hak dan kewajiban	Proses pengalihan hak dan kewajiban dari satu customer kepada customer lain dengan sepengetahuan ACC 	Service																				
+PPJB	Perjanjian Pengikatan Jual Beli	Dokumen bukti kepemilikan sebelum menjadi sertifikat	Fleet Marketing																				
+PPJF	Perjanjian Pembiayaan Jaminan Fidusia	Kontrak Perjanjian Pembiayaan yang menjadi dasar hukum pemberian kredit.	Underwriting																				
+PPKT	Persetujuan Pengeluaran Kendaraan Tarikan	Persetujuan dari departemen AR untuk mengeluarkan kendaraan tarikan untuk ditebus/diserahkan kepada pemenang lelang	AR																				
+PR	Purchase request	proses pengajuan approval sistem untuk pembelian	GA																				
+Pre Approve		Sistem yang memberikan privilege kepada cust. RO/AO untuk mendapatkan approve by sistem	Underwriting																				
+Pre-Analis	pra analisa	Proses penggalian informasi customer diawal sebelum aplikasi diajukan ke komite kredit	SALES																				
+Pre-Approve		Aplikasi dengan syarat dan ketentuan tertentu yang wajib di approve oleh komite kredit	Underwriting																				
+Prediksi bayar		Prediksi customer yang akan melakukan pembayaran	AR																				
+Premis Asuransi		Jumlah premi yang harus dibayar dalam pembiayaan kredit	Sales	Premi = OTR x 100% (allrisk) atau 80% (TLO) x 2,97% x tenor (dalam bentuk tahun)																			
+Prepayment	Prepayment	Pelunasan kredit sebelum jatuh masa tenor (masa berakhirnya kredit)	Service	dikenakan biaya pinalty sebsar 7% dari sisa hutang.																			
+Prepayment		Pelunasan yang dilakukan oleh customer atas unit yang dibiayai oleh ACC	AR																				
+Price list		Daftar yang berisi detail kredit seperti uang muka, tenor, hingga harga cash	Sales																				
+Privilege		hak, imunitas, atau manfaat yang hanya dapat dinikmati oleh segelintir orang	umum																				
+Process Map		sebuah sistem untuk menggambarkan setiap langkah dalam suatu proses	HC LM																				
+Productivity		Parameter pengukuran performance officer	MCS	(total job x std time) / 7 jam kerja																			
+Productivity Surveyor		Productivity surveyor merupakan salah satu komponen insentif surveyor. Productivity dihitung berdasarkan total order survey. 	Surveyor	Rumus Total Productivity = DK + LK. Keterangan: (DK = total order/158) & (LK = total order/98)																			
+Profile Booking Customer		profil sebaran customer ACC yang bisa dilihat dari wilayah/area, pekerjaan, tenor, DP, unit (merk & type), usaha dsb. 	Branch																				
+Program Boosting MSCP AUTO 2000		Program reward lokal cabang ACC untuk dealer direct Toyota (AUTO 2000)	SALES																				
+Program I - Samurai		Program reward dari ACC untuk dealer direct Isuzu	SALES																				
+Program Small Dealer		Program reward Used Car ACC untuk dealer-dealer ukuran small	SALES																				
+Promosi		Kenaikan jabatan berdasarkan penilaian Hasil untuk kerja, job value, potensi, kebutuhan bisnis, 	HC TPM																				
+Proses Survey		Pengumpulan dan atau penyelidikan atas suatu data dan informasi yang nantinya akan digunakan sebagai bahan analisis keputusan kredit	Underwriting																				
+PROVISI		Biaya yang dibebankan kepada Debitur	Sales																				
+Prudent		Merupakan prinsip kehati-hatian dalam melakukan suatu aktifitas maupun pekerjaan untuk meminimalkan risiko negatif	HC IR																				
+PSF 	Pratama Sedaya Finance	Salah satu perusahaan yang dinaungi oleh ACC	umum																				
+PSO	Proedur Standard Operasional	Pedoman yang dibuat untuk mengatur stadarisasi langkah kerja	umum																				
+PTP	Promise To Pay	Janji bayar yang diberikan oleh customer saat deskcoll menelfon customer	AR																				
+PU	Pick Up	Salah satu jenis mobil	Sales																				
+Pure 		Status customer pada list aging mati ARHO yang angusran pertama sudah masuk bucket ARHO	AR																				
+QCDM	Quality, Cost, Delivery, Safety, Moral	Standar etika bisnis terkait pemakaian produk perusahaan afiliasi	RISK MIS																				
+Quality		Salah satu value ACC : Proses yang cepat dan akurat  dengan mentalitas perbaikan secara terus menerus untuk hasil yang terukur dan terbaik	HC OD																				
+RACV	Risk Adjusted Contribution  Value	Total nilai yang didapatkan dari CV yang didapat dikurangi total risk (losses) perusahaan.	Finance	CV - Risk																			
+RATE EFF	Rate Efektif	Rate bunga berjalan	Sales																				
+RATE FLAT	Rate Flat	Rate bunga tetap/konstan	Sales																				
+RBC	Retail Business Commercial	Salah satu paket penjualan truk di ACC	Sales																				
+RBS	Risk Based Supervision	menghitung kesembilan resiko perusahaan menggunakan template report OJK	RISK POL																				
+RCCA	Retail Commercial Credit Analyst	Jabatan cabang officer yang bertugas untuk survey, dan menganalisa aplikasi pengajuan kredit yang bersifat commercial dan bertanggung jawab langung kepada BUH	Underwriting																				
+RCF	Revenue Consumer Financing	Merupakan pendapatan dari bunga yang dikenakan kepada konsumen 	Finance																				
+RD CA	Resume Data Close	Status aplikasi pada sistem yang menerangkan aplikasi sudah selesai proses penginputan	Underwriting																				
+RDH	Regional Division Head	Salah satu jabatan di ACC	HC OD																				
+RD OP	Resume Data Open	Status aplikasi pada sistem yang menerangkan aplikasi sedang dalam pengentian data	Underwriting																				
+Re financing		Penjualan atas unit-unit ACC hasil dari penarikan customer overdue	National Remarketing																				
+Real Time	Real Time	Status di EIS untuk menunjukkan data yang sesuai dengan saat ini 	HC OD																				
+REANI	ACC NATIONAL INFORMATION	data cabang ( balance, volume, loss, inventory, comperhensive yang berisikan productivity, quality yang dapat dipilih berdasarkan PT, used, new, brand )	RISK MIS																				
+REBAT	ARRO Basic Training	Training pembekalan selama 3 haru yang di berikan kepada karyawan baru ARRO, yang berisikan dasar-dasar dalam ARRO management 	REMO																				
+Reconcile		Laporan yang digunakan untuk merekonsiliasi catatan pembayaran menurut bank	Finance																				
+Reconditioning		Mengubah persyaratan kredit 	AR	Kapitulasi bunga																			
+Recouncile Operation		Laporan yang sudah dilakukan verifikasi oleh area operation	Operation																				
+Recovery		Penerimaan perusahaan yang diperoleh dari penjualan kendaraan yang sebelumnya merupakan kendaraan dengan status Write Off	Finance																				
+Red Area City		Area dengan resiko kredit menengah dengan level Approval RODH	Underwriting																				
+Red District		Istilah yang sering digunakan untuk area dimana penanganan customer menunggak sulit dilakukan. Pada kasus di Bali, area ini terdapat di Singaraja dan Bangli, atau area-area yang banyak terdapat pendatang dengan domisili kos berpindah-pindah.	AR																				
+Red handling		Jumlah account handling segmen red	AR																				
+red paid current		jumlah account paid current segmen red	AR																				
+red repo	Red Reposition	jumlah account repo segmen red	AR																				
+red success		jumlah account segmen red yang berhasil diselesaikan	AR																				
+redeem		penebusan unit oleh acc ke pihak lain	AR																				
+Refund Asuransi		Nilai yang dibayarkan kembali ke Dealer dari ACC sebagai keuntungan tambahan dari premi asuransi	Sales																				
+region		Area operasi cabang seperti kalimantan, sulawesi	umum																				
+Reimburse		Pencairan dana yang dibayar dibelakang	Operation																				
+Reject		Keputusan komite kredit yang menolak pembiayaan kepada customer yang tidak memnuhi analisa 5C	Underwriting																				
+Rejection rate 	rejection rate 	presentase jumlah aplikasi yang reject perEOM 	Underwriting																				
+Rekening koran	Rekening koran	Laporan transaksi dan saldo rekening tabungan nasabah pada suatu bank setiap bulannya	Underwriting																				
+REMO	Recovery Management	Officer yang menangani customer OVD > 60 hari	AR																				
+REMO 1	Recovery management officer 1	Officer yg menangani bucket 61-90	AR																				
+REMO 2	Recovery management officer 2	Officer yg menangani bucket 91-120	AR																				
+REMO 3	Recovery management officer 3	Officer yg menangani bucket 121-150	AR																				
+REMO 4	Recovery management officer 4	Officer yg menangani bucket 151-210	AR																				
+REMO 5	Recovery management officer 5	Officer yg menangani bucket 211-290	AR																				
+REMO 6	Recovery management officer 6	Officer yg menangani bucket 291- tak terhingga	AR																				
+RENOAR		Form yang digunakan oleh underwriting officer sebagai salah satu tools dari MCS pada fase 2 (diambil dari nama konsultan)	Underwriting																				
+Rep. Office	Repposession Office	Kantor Reposession	AR																				
+REPA	Repposession Approval	Unit akan ditarik akan tetapi Surat Kuasa belum dicetak	AR																				
+REPL	Repposession Letter	Surat Kuasa Penarikan sudah dicetak	AR																				
+Replacement		penggantian no registrasi bagi aplikasi yang sudah pernah disurvey dalam waktu kurang dari 30 hari	Surveyor																				
+REPO	Repposession 	Penarikan unit	Fleet Asset Management																				
+Report Reconcile		report untuk reconcile data	RISK MIS																				
+Reroute	Reroute	Percepatan penanganan di bagian AR Management atau maju ke bucket di atas karena suatu kondisi tertentu	AR																				
+RESCHEDULE	Reschedule	Penjadwalan ulang piutang	Service																				
+Re-schedule jatuh tempo		Penggantian jatuh tempo pembayaran atas permintaan customer dengan persyaratan tertentu	Sales dan Service																				
+Reserve		pencadangan dana untuk meminimalisasi loss	RISK MIS																				
+Resiko		Bentuk ketidakpastian di lapangan yang harus perusahaan hadapi bahkan harus di kelola	Internal Audit																				
+result last	result last 	hasil akhir analisa credit 	Underwriting																				
+Resurvey		Proses survey ulang untuk aplikasi yang DP CL ( lebih dari 30 hari ) atau dengan status survey dan kebutuhan tertentu	Surveyor																				
+RET	Return	Status BPKB yang telah diberikan kepada customer yang telah melunasi kredit	Service																				
+Revisi	Revisi	Pembaharuan pada kremo atau kontrak	Underwriting																				
+RISK MIS	RISK Management Integrated System	Sistem management yg dimiliki oleh department Risk	RISK MIS																				
+RISK protocol		setiap 3 bulan menilai cabang, area, secara keseluruhan yang ada LOR, balance diambil 3 cabang yang terburuk dan menjelaskan penyebab terjadinya	RISK POL																				
+Risk Quick Report		jenis report yang dikeluarkan oleh departemen risk yang menunjukan perbandingan balance dan loss untuk segmen retail, fleet dan nasional	RISK MIS																				
+Risk register		menelaah resiko apa saja yang mungkin tejadi dalam kegiatan bisnis	RISK POL																				
+risk sharing	risk Sharing	pengelolaan resiko dengan cara membagi resiko ke patner bisnis	RISK POL																				
+Ritase		rute pergi pulang pergi	Fleet																				
+RK	Rekening Koran	Laporan keuangan customer dalam periode tertentu	Underwriting																				
+RMC	Recovery Management Coordinator	Koordinator dari para petugas REMO	AR																				
+RO	Repeat Order	Pengajuan kredit setelah proses kredit yang sebelumnya selesai	Sales																				
+RO	Representative Office	Kantor cabang ACC 	HC OD																				
+RODH	Retail Operation Division Head	Merupakan suatu jabatan division head khusus penanganan operational di cabang	Operation																				
+Roll in		Aliran yg masuk ke dalam bucket	AR																				
+Roll rate		aliran bucket AR	AR																				
+Roll rate		aliran bucket AR	AR	(Roll out/Handling) x 100%																			
+Rollback	Rollback	Perpindahan bucket customer di departemen AR Management karena mundurnya jumlah hari keterlambatan pembayaran angsuran	AR																				
+rollout		Aliran ke bucket penanganan selanjutnya	AR																				
+rootcause		akar masalah dari suatu kasus apapun departemennya	umum																				
+ROSDDH	Retail Operation Support Development Divison Head	Merupakan suatu jabatan division head khusus support operational di cabang	Operation																				
+Rotasi		Perubahan / perpindahan posisi/jabatan yang dilakukan di dalam fungsi/departement yang sama	HC TPM																				
+ROYA	ROYA	proses pembatalan FIdusia	Service																				
+RP	Risk Premium	persentase kesepakatan losses antara bank JF dengan ACC	RISK POL																				
+RR ARHO	Roll rate ARHO	presentase aliran dari ARHO	AR																				
+RR ARRO	Roll rate ARRO	presentase aliran dari ARRO	AR																				
+RR DC	Roll rate DC	presentase aliran dari DC	AR																				
+RR REMO	Roll rate REMO	presentase aliran dari REMO	AR																				
+RRARH	Retail Regional Account Receivable Head	Merupakan suatu jabatan kepala area yang membawahi tiap section head/ARMH di masing-masing cabang dalam cakupan areanya	AR																				
+RROH	Regional Retail Operation Head	Jabatan Area/wilayah yang membawahi OH area tertentu bertanggung jawab langsung pada RODH	Operation																				
+RRSH	Regional Retail Sales Head	Jabatan Area/wilayah yang membawahi BM area tertentu bertanggung jawab langsung pada RSDH	Sales																				
+RSCA	Risk Self Control and Self Assesment	metodologi untuk mengidentifikasi seberapa besar resiko yang mungkin terjadi dalam periode satu tahun sekali	RISK POL																				
+RUW	Risk Underwriter	Approval otomatis aplikasi yang masuk ke risk MIS jika segemen RED melebihi CAPS dengan kriteria tertentu	Underwriting	OH																			
+RUWD	Risk Underwriter Division 	Approval otomatis aplikasi yang masuk ke risk MIS jika segemen RED melebihi CAPS dengan kriteria tertentu	Underwriting	RODH																			
+RUWH	Risk Underwriter Head 	Approval otomatis aplikasi yang masuk ke risk MIS jika segemen RED melebihi CAPS dengan kriteria tertentu	Underwriting	RROH																			
+SAL	Sales Agent Leader	Jabatan Sales Officer yang khusus menangani Multiguna	SALES																				
+Sales Agent		Pihak yang mengurusi tentang program multiguna ACC	Sales																				
+SAS	Statistical Analysis System	program untuk mengolah data ASCII agar mempermudah dalam pengerjaan report biasanya diimport menjadi database	RISK MIS																				
+SBD	Strategic Business Development	Merupakan pengembangan suatu strategi bisnis untuk dapat menambah daya saing perusahaan	RISK MIS																				
+SBF	Survey by field 	jenis survey yang mana surveyor harus mendatangi tempat usaha, rumah atau kantor customer 	Surveyor																				
+SBP	Survey by phone	jenis survey yang mana surveyor hanya menelpon customer tanpa mendatangi rumah/kantor/usahanya dengan  salah satu yaitu kriteria DP diatas 30%	Surveyor																				
+SBSF	Swadharma Bhakti Sedaya Finance	Salah satu perusahaan yang dinaungi oleh ACC	umum																				
+SBT	Sales Basic Training	Ujian untuk kompetensi divisi sales	Sales																				
+SC	Sales counter 	sales yang berada khusus menjaga penjualan dealer 	sales																				
+Scatter		Sebaran showroom usedcar by branch (Cabang)	Sales																				
+Scorecard		Tools MCS yang ada di departemen service untuk mengukur bagaimana kinerja, performance, maupun tingkat kedisiplinan dari tim service	Service																				
+Scorecard Scoring Matrix		tools yang digunakan oleh koordinator untuk menampilkan summary performance masing-masing officer (baik secara individu maupun posisi) dalam pencapaian terhadap KPI dan productivity	Operation																				
+SDP	Sales Development Program	Bagian dari program JLDP  berfokus pada bagian / divisi sales selama 4,5 Bulan	Sales																				
+SDR	Sales daily report	rekapan data penjualan dari mulai aplikasi in, valid sampai backlog setiap harinya 	sales 																				
+SE	Surat Edaran	Surat edaran terkait kebijakan dari Head Office	Sales, Underwriting, AR																				
+Segmen redeem		Segmen penebusan unit	AR																				
+segment flag		Segmen untuk poin CBO	AR																				
+Self audit	Self audit	Salah satu metode yang digunakan pejabat cabang untuk kontrol dan monitoring yang dilakukan biasanya ssatu bulan sekali. biasanya self audit untuk BPKB	Service																				
+Selog		kurir yang bekerja sama dengan ACC dalam proses pengiriman kontrak ke customer	Underwriting																				
+SERCO	Service Coordinator	Jabatan cabang coordinator yang bertugas dalam kegiatan service bertanggung jawab langung kepada OH	Service																				
+SERO	Service Relationship Officer	 Merupakan suatu jabatan officer di servis yang bertugas untuk menangani customer kebiasaan ovd dengan memberi solusi rescheduling di cabangkepada customer yang masuk bucketnya (OVD 0-30 hari selama 3 bulan)	Service																				
+Service Score Card		Tools MCS yang ada di departemen service untuk mengukur bagaimana kinerja, performance, maupun tingkat kedisiplinan dari tim service	Service																				
+SESF	Staco Estika Sedaya Finance	Salah satu perusahaan yang dinaungi oleh ACC	umum																				
+Setia		Salah satu paket ACC untuk aplikasi berupa dp 15%	Sales																				
+SGU	Sewa Guna Usaha	Kegiatan Pembiayaan dalam bentuk penyediaan barang modal, yaitu financial lease atau operational lease. Produk yang dibiayai unit komersial, lease wajib menggunakan opsi membeli di akhir periode.	Sales 																				
+SH	Sales Head	Jabatan cabang head yang bertugas di penjualan new car/nona/multiguna/used car dan bertanggung jawab langung kepada BM	sales																				
+Shareholder		Pemegang saham	Operation																				
+Showroom		Tempat untuk memamerkan mobil bagi pengusaha used car untuk meningkatkan pemasaran	Sales																				
+SI	Shared Insurance	Merupakan porsi asuransi yang dikeluarkan ACC kepada pihak asuransi	Strategic Alliance	Porsi asuransi perusahaan x/Total asuransi																			
+Siap jual		Unit tarikan yang sudah siap jual	AR																				
+SIC	Short Interval Control	metode control yang digunakan oleh ARHH/ ARMH kepada ARHO/ARRO melalui telepon	Sales																				
+SIGAP		Perusahaan yang menyalurkan tenaga kerja satpam bekerja sama dnegan ACC	umum																				
+Silent Survey		Proses jalan survey yang dilakukan secara diam-diam untuk kepentingan tertentu sesuai dengan permintaan	Underwriting																				
+SIPOC	Supply Input Process Output Customer	High level proses yang terjadi di suatu bagian	umum																				
+SIUP 	surat izin usaha perdagangan 	sebagai salah satu syarat untuk mengajukan kredit yakni surat bukti mendirikan usaha 	sales																				
+SJF	Sertifikat jaminan fidusia	Sertifikat fidusia, yang memiliki kekuatan apabila ACC ingin menarik unit dari customer	Underwriting																				
+Sk Domisili	Surat Keterangan Domisili	Surat Keterangan bahwa seseorang/ perusahaan benar tinggal di suatu daerah tertentu	Underwriting																				
+SK Eksternal	Surat Kuasa Eksternal	surat tarik yang dikeluarkan untuk pihak eksternal perusahaan (PEOJF)	AR																				
+SK Fidusia	Surat Kuasa Fidusia	Bagian dari Dokumen kontrak yang digunakan untuk order fidusia	Underwriting																				
+SK Menkeh	Surat Keputusan Menteri Kehakiman	Surat keputusan dari Menteri Kehakiman yang menyatakan bahwa perusahaan tersebut nyata dan melakukan kegiatan produksi	Underwriting																				
+Sk Menkop	Surat Keputusan Menteri Koperasi	Surat keputusan dari Menteri Koperasi yang menyatakan bahwa koperasi tersebut nyata dan melakukan kegiatan produksi	Underwriting																				
+SK Online	Surat Kuasa Online	Sama halnya dengan SK Tarik, tetapi SK Online terintegrasi online dan dapat di akses di ACC Yes	AR																				
+SK Tarik	Surat Kuasa Tarik	Surat yang menjadi pegangan dan dasar hukum bagi ARRO atau PEOJF untuk melakukan penarikan unit dari customer yang menunggak angsurannya	AR																				
+Skema Insentif		Kerangka pembagian refund (asuransi, bunga, admin, provisi) untuk dealer sesuai dengan level dealer tsb	Underwriting	Dihitung per unit (tergantung persentase yang diberikan sales)																			
+Skill Scoring Matrix		Angka yang menunjukkan ukuran dari skill officer yang digunakan untuk proses evaluasi kinerja officer di underwriting	Underwriting																				
+Skip Angsuran	Skip Angsuran	Customer dapat menunda pembayaran angsuran pada bulan tersebut dan dialihkan ke bulan-bulan berikutnya.	Service																				
+SKP	Surat Keterangan Penghasilan	Surat keterangan yang menyatakan total penghasilan customer	Underwriting																				
+SKTS	Surat Keterangan Tinggal Sementara	Surat keterangan yang dikeluarkan instansi berwenang dalam penyelenggaraan administrasi WNI yang tinggal di luar domisili asalnya lebih dari 3 bulan. Jika tidak memiliki KIPEM/SKTS dapat terkena sangsi berupa teguran atau denda hingga 50 juta jika ada razia yustisi.	Service																				
+SKU	Syarat ketentuan umum fidusia	syarat-syarat untuk pembuatan fidusia	Underwriting																				
+SL3MV	Sales Last 3 Month Valid	"aplikasi"" yang valid selama 3 bulan terakhir "	Service																				
+SLA	Standard Level Agreement	Batas waktu untuk menyelesaikan suatu proses/ hal	Service																				
+Slow Moving Unit		Unit-unit yang penjualannya tergolong sedikit atau jarang diperjualbelikan	Sales																				
+SMART	Smart, Measurable, Achievable, Relevant, Time bound	Prinsip yang dipegang ketika membuat sebuah improvement	umum																				
+SM	Sales Manager	Jabatan cabang yang menangani used car, nona, multiguna bertanggung jawab langung kepada RRSH	Sales																				
+SME	Subject Meter Expert	Seseorang yang menjadi tolak ukur proses mapping di cabang karena dianggap sudah mengerti proses bisnis.	HC-LM																				
+SMP	Sales Minimum Productivity	Target Unit valid Minimium yang harus dicapai oleh setiap individu sales sesuai dengan kategori, level dan ocean agar tidak terkena SP 3 dan dapat bertahan di level tertentu.	HC OD																				
+SN	Serial Number	nomor identifikasi unit	umum																				
+SNAPSHOT	Snapshot	Customer Menunggak di atas 7 hari	Fleet																				
+SNAPSHOT	Snapshot	Customer Menunggak di atas 7 hari	Underwriting	S = total acount yg nunggak / L9MV x 100																			
+Sniper		Salah satu bentuk vitamin dari acc kepada sales dealer	Sales																				
+SO	Sales Officer	Jabatan cabang officer yang bertugas di penjualan new car/nona/multiguna/used car dan bertanggung jawab langung kepada SOH/SH	sales																				
+SOC	Spend Of Control	jumlah rata-rata dealer yang ditangani satu cabang	Marketing Planning & Control																				
+Soft Reschedule		perubahan isi kontrak yang menyebabkan menurunnya resiko kredit 	Service																				
+SOH	Sales Officer Head	Jabatan cabang coordinator SO/SUW yang bertugas di penjualan new car/nona/multiguna/used car dan bertanggung jawab langung kepada SH	sales																				
+SOP	Standar Operating Procedur	Dokumen yang berkaitan dengan prosedur yang dilakukan secara kronologis untuk menyelesaikan suatu pekerjaan yang bertujan untuk memperoleh hasil kerja yang oaling efektif dari para pekerja.	Sales 																				
+SP	Sales Point	Klasifikasi cabang ACC kategori cabang kecil baik segi target jualan maupun target OSA	HC OD																				
+SP	Service Point	Salah satu grade cabang terendah ACC	HC OD																				
+SP BPKB	Surat Pernyataan Bukti Kepemilikaan Kendaraan Bermotor	Daftar list BPKB yang dimiliki oleh ACC yang harus di collect ke dealer	Service																				
+SP BPKB > 90		Daftar list BPKB > 90 yang harus di collect oleh ACC ke dealer	Service																				
+SP Istri	Surat Persetujuan Istri	Surat yang menyatakan persetujuan istri untuk mengambilan unit. Surat iuni terdapat pada saat tanda tangan kontrak	Sales ( SUW)																				
+SP Suami	Surat Persetujuan Suami	Surat yang menyatakan persetujuan istri untuk mengambilan unit. Surat iuni terdapat pada saat tanda tangan kontrak	Sales ( SUW)																				
+SP1	Surat Peringatan 1 ( Ovd 7 )	Surat yang dikirimkan ke rumah Customer dengan Ovd 7 hari, berisi peringatan untuk segera melakukan pembayaran	AR																				
+SP2	Surat Peringatan 2 ( Ovd 11 )	Surat yang dikirimkan ke rumah Customer dengan Ovd 11 hari, berisi peringatan untuk segera melakukan pembayaran	AR																				
+SP3	Surat Peringatan 3 ( Ovd 15 )	Surat yang dikirimkan ke rumah Customer dengan Ovd 15 hari, berisi peringatan untuk segera melakukan pembayaran	AR																				
+SPB 	Surat Pernyataan Bersama	Surat yang berisi tentang perjanjian antara kreditur dan debitur 	Underwriting																				
+SPB BPKB	Surat Perjanjian Bersama BPKB	Surat yang digunakan untuk mengambil BPKB dari dealer	Service																				
+SPD	surat perjalanan dinas	surat-surat yang harus dipersiapkan sebelum menjalankan perjalanan dinas	Finance																				
+SPD Advance		Surat perjalanan dinas yang dibayarkan setelah selesai menjalankan perjalanan	Operation																				
+SPH	Surat Penyelesaian Hutang	Surat yang menandakan adanya penyelesaian overdue	Fleet Asset Management																				
+Spit dokumen		Proses pemisahan dokumen kontrak didistribusikan kepada pihak yang membutuhkan dokumen tersebut	Underwriting																				
+SPK	Surat Perintah Kerja	Sebagai acuan project kerja customer	Fleet Marketing																				
+SPK	Surat Perjanjian Kerjasama	Surat yang menandai atau mendasari adanya kerjasama antara ACC dengan pihak eksternal. Contohnya dengan dealer dan birojasa terkait perpanjangan STNK.	Service																				
+SPK	Surat Pemesanan Kendaraan	Surat keterangan yang menyatakan benar customer ingin membeli unit dari dealer tertentu	Underwriting																				
+SPM	Surat Pemesanan Mobil	Dokumen yang ditulis oleh sales setelah melalui proses deal dengan konsumen dan dilanjutkan tanda jadi	Sales																				
+SPV	Supervisor	Atasan Officer di dealer	Sales																				
+Standard Operating Procedure		standar pelaksanaan kerja yang diterapkan bagi seluruh karyawan ACC agar tujuan perusahaan tercapai dan kinerja karyawan terarah	umum																				
+stay		Account yg masuk lg ke bucket yg sama	AR																				
+Stay F9PD		Account yang pada bulan lalu dan bulan ini masuk ke bucket penanganan yang angsurannya masih di bawah 9 bulan	AR																				
+STEPPING DOWN	Stepping Down	Angsuran menurun	Sales																				
+STEPPING UP	Stepping Up	Angsuran meningkat	Sales																				
+STNK	Surat Tanda Nomor Kendaraan	Surat kendaraan yang diperlukan untuk pembiayaan used car atau multiguna	Sales ( SUW)																				
+Stock opname	Stock opname	Metode yang digunakan untuk memastikan fisik dan yang ada di sistem sama. Biasanya untuk BPKB, unit di pool, dll, biasanya dilakukan 3 bulan sekali	Service																				
+SO	Sales Officer	Jabatan di fungsi sales	sales																				
+SU CL	Survey Close	Status aplikasi pada sistem yang menerangkan aplikasi sudah selesai melalui proses survey	Underwriting																				
+SU OP	Survey Open	Status aplikasi pada sistem yang menerangkan aplikasi sudah diorder dan sedang dilakukan proses survey	Underwriting																				
+Subro	Subrogasi	pergantian pembiayaan AF dari reguler menjadi JF	RISK MIS																				
+Subsidi DP		Nominal yang ditetapkan untuk menutupi kekurangan pembayaran DP / uang muka kredit kendaraan.	Sales																				
+Subsidi Rate		Nominal yang ditetapkan untuk menutupi kekurangan biaya bunga pada transaksi kredit kendaraan.	Sales																				
+Subsidi Risk		Nominal yang ditetapkan untuk menutupi (sebagian / seluruh) resiko yang dapat timbul pada transaksi kredit kendaraan.	Sales																				
+Succes rate		Jumlah kesuksesan penanganan baik payment/repo dalam %	AR	(succes account/Handling) x 100%																			
+Sumbagsel	Sumatera Bagian Selatan	Coverage Area ACC di Pulau Sumatera Bagian Selatan	umum																				
+Sumbagut	Sumatera Bagian Utara	Coverage Area ACC di Pulau Sumatera Bagian Utara 	umum																				
+Supplier		Pihak yang terlibat dalam bisnis ACC sebagai pemberi bahan untuk menginputan (Contoh  : Dealer & Customer	Sales																				
+Surat Kuasa		Surat pelimpahan wewenang kepada piahk yang ditunjuk. Biasanya dipakai ketika pengambilan BPKB diwakilkan	Service																				
+Survey	Survey	Proses pengumpulan informasi mengenai kondisi customer, apakah layak diberi kredit atau tidak	Underwriting																				
+Survey Parameter		Paremeter / Standar yang digunakan surveyor ketika melakukan survey	Surveyor																				
+Surveyor		Officer yang melakukan survey	Underwriting																				
+SUW	Sales UnderWriter	Jabatan cabang yang bertanggung jawab atas penjualan dan proses analisa credit untuk area BPR dan bertnggnng jawab pada SH dan BM	Sales																				
+SW	Sundawani Wirabuana	Organisasi Massa yang berlatar belakang etnis/kesukuan dengan mayoritas anggotanya warga keturunan Sunda. Ormas ini diketuai oleh Robby Maulana Zulkarnaen.	REMO	Ormas																			
+Swipe In		Absen masuk kantor	Operation																				
+Swipe Out		Absen keluar kantor	Operation																				
+Take Over Kredit		Proses peralihan kredit antara kreditur utama dengan kreditur lainnya	Service																				
+TAKSASI		Penilaian Nilai Unit	National Remarketing																				
+Takwim		tanggal kadaluarsa dokumen	AR																				
+Tanggal jatuh tempo		Hari pembayaran harus dilakukan oleh debitur kepada kreditur, setelah tanggal tersebut akan disebut menunggak.	umum																				
+Tanggungan		Jumlah anak customer yang berusia dibawah 21 tahun	Underwriting																				
+TAP	Ketetapan	Peraturan yang dikeluarkan oleh top management yang mengatur secara global	HC IR																				
+Target		Angka yang harus dicapai	AR																				
+Task Force		Perpindahan sementara ARHO/ARRO ke cabang yang membutuhkan 	AR																				
+Tax		Pajak penghasilan badan yang dikenakan ke perusahaan	Finance																				
+TBP	Total Bayar Pertama	Total Pembayaran Pertama yang harus dibayarkan oleh customer kepada dealer.	Sales 	Meliputi ; 1. DP 2. Angsuran (Jika ADDM) 3. Premi Asuransi 4. Polis 5. Admin  																			
+TDP	Total Down Payment	Total Uang muka yang dibayar customer kepada dealer untuk proses kredit	Sales	DP + Biaya Admin + Premi Asuransi (cash) + angsuran bulan pertama (apabila ADDM)																			
+TDP	Tanda Daftar Perusahaan	Daftar catatan resmi yang diadakan menurut atau berdasarkan ketentuan undang-undang atau peraturan-peraturan pelaksanaannya, dan memuat hal-hal yang wajib didaftarkan oleh setiap perusahaan serta disahkan oleh pejabat yang berwenang	Underwriting																				
+Team work		Salah satu value ACC : Bersinergi melalui interaksi yang positif dan terbuka, dengan komitmen mencapai target perusahaan	HC OD																				
+tebus gadai		penebusan unit oleh acc ke pihak lain	AR																				
+Teller		Merupakan suatu jabatan officer di servis yang bertugas untuk menerima dan mengamankan angsuran customer di cabang	Service																				
+TENOR	Periode Kredit	Lama periode kredit	Underwriting																				
+Tenor ASS		Jumlah tenor yang dipakai untuk premis asuransi	Sales																				
+Threshold	Threshold	Batas minimum untuk pencapaian target (ex: 85% masih bisa kuning)	Underwriting																				
+Tickmark		Pencontrengan untuk mengadjust CBO	AR																				
+Time to Backlog	Time to Backlog	Waktu yang dibutuhkan dari customer tandatangan kontrak sampai go live	Underwriting																				
+Time to Cash	Time to Cash	Waktu yang dibutuhkan dari ACC menerima tagihan AP dari dealer sampai dealer menerima pembayaran	Underwriting																				
+Time to print contact		Waktu yang diperlukan oleh document prossecesor untuk mencetak satu dokumen kontrak	Underwriting																				
+Time to print cremo		waktu yang diperlukan oleh document prossecesor untuk mencetak satu credit memo	Underwriting																				
+timo		Titip memo	AR																				
+TJH	Tanggung Jawab Hukum	Claim asuransi yang diberikan jika melibatkan kendaraan lain	Operation																				
+TLO	Total Loss Only	proses klaim asuransi hanya dapat diajukan apabila terjadi kehilangan total (kerusakan >75% , pencurian)	Sales																				
+TM	This month		AR																				
+TMO	Telemarketing Officer	Pihak yang melakukan penawaran produk multiguna ACC melalui telephone untuk diarahkan pengurusan ke cabang terdekat.	Operation																				
+TMV	Truck Motor Vehicle	Kategori unit pembiayaan alat berat	Fleet																				
+Tonase		pembatasan jumlah muatan	Fleet																				
+Tools MCS		Alat/Kriteria yang digunakan dalam proses audit MCS	Audit	tools yang digunakan dalam proses audit adalah KPI masing-masing karyawan cabang																			
+top up	top up 	dimana jumlah hutang yang ada ditambah lagi dengan hutang yang baru 	sales																				
+TOT OVER	Total Over	Total tunggakan yang harus dibayarkan customer s/d current	AR																				
+Total Asset		Total nilai aktiva perusahaan	Finance																				
+Total Principle		Jumlah Amount Finance dalam pembiayaan kredit	Sales																				
+TR	Trainer Representatif	Orang-orang terpilih yang sudah mengikuti TTT dan dianggap mampu sebagai pengajar karyawan baru dalam suatu cabang	HC LM																				
+TR	Tidak Rekomendasi	Status hasil Survei dari surveyor apabila surveyor tidak merasa customer sanggup untuk memenuhi kewajibannya apabila diberikan kredit	Underwriting																				
+TR	Tidak Rekomen	Keputusan hasil survey bersifat tidak rekomen yang diberikan oleh surveyor sebagai pertimbangan dalam proses approval	Underwriting																				
+TR	Trainer Representatif	Perwakilan dari cabang yang akan menjadi trainer di dalam preliminary dan basic training.	HC LM	"Tugas:
+Memenuhi target  partisipasi 80% Preliminery di cabangnya
+Menjadwalkan pelaksanaan training dengan tim LM
+Mengajarkan materi Preliminery & PMN untuk setiap karyawan baru di cabang
+Membuat report untuk dikirimkan kepada tim Learning Management berupa Absensi, evaluasi dan kuitansi max  3 hari setelah melakukan training"																			
+Treasury		Merupakan aktifitas pencarian dana untuk modal kerja bisnis keuangan	Finance																				
+TS	Terminal Service	Sistem yang digunakan untuk operasional ACC 	IT																				
+TSO	Toyota Sales operation	Dealer direct yang bekerja sama langsung dengan ACC dalam penjualan unit toyota	Brand Toyota																				
+TTB	Time to Backlog	Standar rentang waktu durasi aplikasi backlog	Underwriting																				
+TTC	Time to Cash	Standar rentang waktu proses pelunasan biaya kredit oleh custumer ke dealer	Underwriting																				
+TTD	Time to Decision	Waktu yang dibutuhkan dari proses wing to wing aplikasi in sampai approval (hasil reject maupun approve)	Underwriting																				
+TTDD	Time to Doc Delivery	Standar rentang waktu proses pengiriman kontrak	Underwriting																				
+TTS	Tanda Terima Sementara untuk Giro	Tanda terima sementara yang digunakan saat menerima giro	Service																				
+TTS (Survey)	Time To Survey 	KPI dari departement surveyor yang digunakan untuk memantau jalanannya performance surveyor, dibatas waktu 2 jam untuk survey	Surveyor																				
+TTT	Train The Trainer	Training yang dilakukan untuk membantu meningkatkan para trainer internal ACC dalam men-deliver knowledge agar siap untuk mengajar	HC LM																				
+TTV	Time to Valid	Lama waktu yang dibutuhkan untuk valid suatu kontrak	Underwriting																				
+TTY	Time To Yes	Waktu yang diselesikan dari aplikasi masuk bucket sampai aplikasi approve	Underwriting																				
+TVC	Toyota Value Chain	Mata rantai dari Toyota. Salah satu mata rantai Toyota yaitu ACC. Pembiayaan non Bank terhadap unit yang mereka jual 	Sales 																				
+TVIP	Toyota VIP	Kode Paket VIP acces untuk Brand Toyota	Sales 																				
+type	avanza,agya	Salah satu jenis kendaraan seperti 1.3 VELOZ AT	Sales																				
+UBS	Underwriting Basic Training	Training pembekalan selama 3 haru yang di berikan kepada karyawan baru Underwriting, yang berisikan dasar-dasar teknis skill underwriting	HC LM																				
+UDP	Underwriting Development Program	Bagian dari program JLDP  berfokus pada bagian / divisi underwriting selama 4,5 Bulan	Underwriting																				
+Udw	Underwriting	Suatu departemen di ACC	Underwriting																				
+Understanding		Standar penilaian audit terhadap pemahaman divisi underwriting dalam mengisi MCS. officer mamahami esensi dari pekerjaan yang dikerjakan sesuai peraturan dan ketentuan management ACC	Audit MCS																				
+Underwriting Hospital		pembinaan dan pengarahan terhadap officer Underwriting yang dilakukan setiap bulan untuk mengevaluasi kinerja officer yang targetnya tidak tercapai	Underwriting																				
+Unit Accident		Unit pinjaman mengalami kecelakaan	AR																				
+UNIT E,K,O	Unit (Ekstravaganza, Kurang Baik, Oh My God)	Kategori Unit untuk Multiguna 	Sales																				
+Usage		officer mengaplikasikan setiap peraturan dan ketentuan sehingga menghasilkan produktifitas kerja	Audit MCS																				
+Used Reg	Used Regular	istilah ini digunakan untuk penjualan unit dari Showroom/mobil bekas	SALES																				
+UUS	Usaha Unit Syariah	Departemen yang membawahi kegiatan syariah	Unit usaha syariah																				
+UW	Underwriting	Salah satu departmen terkait dengan proses analisa aplikasi yg masuk	Underwriting																				
+UWA 1	Underwriting Admin 1	Posisi di underwriting yang bertugas sebagai validasi H+1	Underwriting																				
+UWA 2		Jabatan di Underwriting yang berfungsi sebagai pengiriman copy kontrak. jabatan di Underwriting yang memiliki fungsi dalam pengiriman kontrak ke customer dan maintenance penerimaan kontrak	Underwriting																				
+UWA 3		jabatan di Underwriting yang memiliki fungsi dalam filing dokumen kontrak yang siap dijadikan arsip ACC	Underwriting																				
+Valid		Kontrak yang sudah di approve dan sudah dibayarkan ke dealer	Underwriting																				
+Validasi		Proses valid suatu aplikasi yang dilakukan oleh AP Payment	Underwriting																				
+Validasi		Merupakan aktivitas memeriksa keabsahan dokumen dengan cara mencocokan atau membandingkan dengan dokumen atau data yang lain	Underwriting																				
+Validasi dokumen		Proses pengecekan keabsahan dokumen	Underwriting																				
+Verifikasi		Memeriksa kebenaran data yang diterima 	Underwriting																				
+Verifikasi		Merupakan aktivitas memeriksa kebenaran data dengan kondisi sebenarnya konsumen.	Operation	Dilakukan dengan 2 cara yaitu:																			
+Verifikasi dokumen		Proses pengecekan ulang dokumen untuk meminimalisir kesalahan	Underwriting																				
+VIP ACCESS		PAKET BUNGA RINGAN UNTUK DP DIATAS 25% DALAM RANGKA ULANG TAHUN ACC YANG KE 35 TAHUN	SALES																				
+Vitamin		Reward untuk sales dealer yang aplikasinya in ke ACC	Sales																				
+VOC	Voice Of Customer	Ucapan langsung dari customer tentang kondisi nyata yang dirasakan untuk digunakan sebagai landasan pengambilan data dalam proses perbaikan dan pengembangan	HC LM																				
+Wanprestasi		Cedera janji/ingkar janji (mangkir bayar)	AR																				
+Warning Letter	warning letter I, II, III	Surat peringatan kepada customer yang dikeluarkan jika over 3, 5, 17	AR																				
+Wheel dop		Penutup velg mobil	Service																				
+WLKP	Wajib Lapor Ketenagakerjaan di Perusahaan	pendaftaran jumlah tenaga kerja pada suatu perusahaan. Pendaftaran dimaksud untuk memperoleh data yang dapat memberikan gambaran mengenai ketenagakerjaan di perusahaan	HC IR	"1.UU No. 13 Tahun 2003 Tentang Ketenagakerjaan
+2. UU No. 7 Tahun 1981 Tentang Wajib Lapor Ketenagakerjaan Di Perusahaan
+3. Permenaker Nomor : Per.06/Men/1995 Tentang Tata Cara Pelaporan Ketenagakerjaan Di Perusahaan
+"																			
+WO	Write Off 	Penghapusan Account	AR																				
+WO booking	Write Off booking	WO dari penjualan sebuah cabang yg masuk ke penanganan cabang lain	AR																				
+WO handling	Write Off handling	Jumlah WO dari wilayah penanganan 1 cabang	AR																				
+WO NETT BOOKING		Wo nett penjualan sebuah cabang yang berada di wilayah penanganan cabang lain (tanpa bunga)	AR																				
+WO NETT HANDLING		Wo nett yang ada di wilayah penanganan cabang sendiri	AR																				
+Workload		total waktu yang dibutuhkan untuk melakukan pekerjaan setiap officer	Underwriting																				
+Worload Productivity		Untuk mengukur tingkat produktivitas/kesibukan officer dalam satu hari kerja	Underwriting																				
+Xteady		Program reward ACC untuk dealer direct Daihatsu	SALES																				
+XXOP		Status aplikasi pada sistem yang menerangkan aplikasi sedang dalam proses PPHK	Underwriting																				
+YBS ATAS NAMA	Yang Bersangkutan	Customer yang melakukan ikat kontrak di ACC namun unit digunakan oleh orang lain	AR																				
+Yellow Area City		Area dengan resiko kredit yang cukup tinggi dengan level Approval RROH	Underwriting																				
+YTD	Year to date		AR																				
+OVERDUE		Keterlambatan hari pembayaran dari jatuh tempo	AR																				
+SURO	Special Unit Recovery Officer	Program recrutmen eksternal untuk menempati divisi Remo	REMO																				
+Flag Writeoff		Kode pada sistem AOL yang menyatakan apakah aplikasi kontrak	AR																				
+Otorisasi		Validasi yang dilakukan oleh pejabat yang berwenang	umum																				
+QUERY DENDA		Menu yang dipakai untuk melihat total dan rincian denda customer	AR																				
+QUERY SURAT		Menu yang dipakai untuk melihat kontrak-kontrak mana	AR																				
+MAILING HISTORY		Menu yang digunakan untuk melihat history surat apa saja yang 	AR																				
+BP	Broken Promise	cust yang tidak menepati JB nya	DeskColl																				
+Kept		cust menepati janji	DeskColl																				
+Agent		officer di deskcoll	DeskColl																				
+insurance cancellation		nilai pembatalan asuransi 	Service																				
+Principle Part of Unpaid Installment		total principal (tidak termasuk bunga) dari angsuran yang belum di bayar	AR																				
+ Grace Period		Kolom pada menu aol yang akan menampilkan periode angsuran	Underwriting																				
+		(dalam bulan) dimana cust tidak dikenai denda selama periode	AR																				
+collection details		history penanganan collector	AR																				
+KODE WORKGROUP		Kode wilayah kerja yang akan dialokasikan ke collector	AR																				
+PRIORITY CODE		Kode prioritas	AR																				
+KODE BREAKUP		Kode dari komponen/acsesoris kendaraan tarikan	AR																				
+POSTCODE WISE		Pemindahan semua kontrak yang semula ada di bucket seorang 	AR																				
+COLLECTOR WISE		Pemindahan semua kontrak yang semula ada di bucket seorang 	AR																				
+WORKGROUP WISE		Pemindahan semua kontrak pada wilayah kerja/workgroup tertentu	AR																				
+PDC DETAILS		Berisi data PDC customer jika ada pembayaran dengan PDC	AR																				
+PAY SCHEDULE		berisi jadwal pembayaran angsuran customer	AR																				
+AMT PENALTY		Besarnya nilai denda per angsuran	AR																				
+AMT PENALTY PAID		Besarnya nilai denda yang sudah dibayar perangsuran	AR																				
+RATE PENALTY		Besarnya bunga denda per hari	AR																				
+INTEREST DUE		Nilai bunga untuk angsuran yang sudah jatuh tempo 	AR																				
+CLR	CLEAR	Angsuran sudah dibayar	AR																				
+UNP	Unpaid	Angsuran belum jatuh tempo	AR																				
+CAR SELLING		Menu yang berfungsi untuk mengentry hasil penjualan/lelang	AR																				
+CAR RETURNING		Menu yang berfungsi jika mobil inventory tersebut (sebelum dijual/	AR																				
+SURO	Special Unit Recovery Officer	Progam recruitment untuk REMO baru	AR																				
+Matel	Mata Elang	Eksternal yang membantu kolektor dalam pelacakan unit	AR																				
+MID DAILY LOG		Kontroling by ARHH untuk ARHO yang sedang berada di lapangan	AR																				
+Abubakar		Salah satu mafia mobil daerah DKI khususnya Tangerang	AR																				
+Berkas Pelimpahan		Berkas-berkas yang dikumpulkan untuk keperluan pelaporan cust bermasalah ke Polisi	AR																				
+COGS	Cost Of Good Sold	Harga pokok produksi	SALES																				
+SUV	Sport Utility Vehicle	Kendaraan yang bisa menghadapi segala medan	SALES																				
+HC	Human Capital	Departemen yang mengurus perkembangan karyawan ACC	HC OD																				
+HP	Horse Power	Kendaraan untuk mengangkut beban berat 5-10 Ton	SALES																				
+MPV	Multi Purpose Vehicle	Kendaraan Multifungsi	SALES																				
+SPT	Surat Pajak Tahunan	Surat untuk pembayaran pajak tahunan	SALES																				
+IMB	Ijin Mendirikan Bangunan		umum																				
+IMC	Max Installment Ratio	Salah satu syarat yang harus dipenuhi oleh customer untuk membuka kredit di ACC	SALES																				
+tenor kredit		jangka waktu pembayaran hutang	SALES																				
+Bunga		Biaya jasa yang harus dibayarkan customer kredit	SALES																				
+BFI		Salah satu kompetitor ACC 	umum																				
+LK	Luar Kota	Wilayah yang berada di luar kota	Surveyor																				
+DK 	Dalam Kota	Wilayah yang berada di dalam kota	Surveyor																				
+Fleet		Pemesanan unit diatas 1M	SALES																				
+Level ARHO		Level yang harus dicapai oleh setiap ARHO, minimal level 2	AR																				
+RAIB		unit atau customer yang keberadaanya sudah tidak diketahui	AR																				
+Blacklist		Customer yang bermasalah dan tidak bisa untuk kredit di ACC	AR																				
+Garda Medika		Asuransi yang digunakan untuk karyawan ACC	HC PCBM																				
+Arthaprima		Salah satu perusahaan pembiayaan yang menjadi saingan ACC	umum																				
+Excoll	External Collektor	Kolektor yang bekerja sama dengan ACC tapi bukan Karyawan Internal ACC	AR																				
+PDC Detail		Berisi data PDC customer jika ada pembayaran via PDC	Service																				
+CLOS		Angsuran lunas sesuai tenor	AR																				
+BOU		Angsuran yang mengalami overdue	AR																				
+CAN		apabila pembayaran menggunakan PDC tidak sesuai kriteria	Service																				
+CHQ		Pembayaran menggunakan cek	Service																				
+CLR	Clear	Keterangan untuk angsuran sudah dibayar	AR																				
+UNP	Unpaid	Keterangan untuk angsuran yang belum jatuh tempo 	AR																				
+Over Prediksi		Prediksi overdue pada tanggal closingan	AR																				
+Notepad		Berisi history catatan/keterangan penanganan tambahan dari collector dan supervisor	AR																				
+Amount Ovd	Amount Overdue	Saldo yang menunggak	AR																				
+Dt. Simulation	Date Simulation	Tanggal yang diinginkan untuk simulasi	Service																				
+Rate Penalty		Besar bunga denda/hari	AR																				
+Total Penalty		Besarnya nilai total amount denda	AR																				
+Penalty Paid		Besarnya nilai denda yang sudah dibayar customer	AR																				
+Bal. Penalty	Balance Penalty	Besarnya nilai denda yang belum dibayar customer	AR																				
+No. Inst.	Nomor instalment	Angsuran ke	AR																				
+Status Inst.	Status Instalment	Status Angsuran	AR																				
+Amt. Inst.	Amount Instalment	Besarnya nilai angsuran	AR																				
+Amt. Paid	Amount Paid	Besarnya nilai angsuran yang sudah dibayar customer	AR																				
+Day Ovd	Day Overdue	Jumlah hari overdue	AR																				
+Amt. Penalty	Amount Penalty	Besarnya nilai denda per angsuran	AR																				
+Amt. Penalty Paid	Amount Penalty Paid	Besarnya nilai denda yang sudah dibayar per angsuran	AR																				
+Discount on Penalty		Diskon denda	AR																				
+Repossession Cost		Biaya Tarik	AR																				
+BP	Broken Promise	customer yang tidak menempati janji bayar	AR																				
+Agent		Officer di Deskcoll	AR																				
+Priority Code		Kode prioritas	AR																				
+PDC Detail		Berisi data PDC customer jika ada pembayaran dengan PDC	AR																				
+Insurance Cancellation		Nilai pembatalan asuransi	AR																				
+Interest Due		Nilai bunga untuk angsuran yang sudah jatuh tempo	AR																				
+SURO	Spesial Unit Recovery Officer	Program rekrutmen eksternal untuk divisi REMO	AR																				
+Otorisasi		Validasi yang dilakukan oleh pejabat yang berwenang	AR																				
+Kept		Customer menempati janji	AR																				
+Collection Detail		History penanganan collector	AR																				
+Kode Workgroup		Kode wilayah kerja yang akan dialokasikan ke customer	AR																				
+AAT	Armada Auto Tara	Dealer indirect yang bekerjasama dengan TAM dalam penjualan unit daihatsu.	Sales																				
+Ach Compree		Presentasi pencapian fpd selama  tidak lebih dari 30 hari	Underwriting (SUW)																				
+Ach Snap		Presentasi pencapian fpd selama  tidak lebih dari 7 hari	Underwriting (SUW)																				
+Adira Finance		Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+BCA FINANCE	Bank Central Asia Finance	Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+BLCB	Basic Leadership Character Building	Training untuk pengembangan leadership dan karakter karyawan menjadi golongan 3D.	HC LM																				
+Brand Manager		Bertugas untuk membuat strategi penjualan brand toyota, daihatsu, used dan isuzu.	Sales																				
+CL	Close	Status di sistem yang berarti selesai.	Underwriting (SUW)																				
+CSV	Coma Spirit Values	File format yang digunakan untuk membaca tadi.	Underwriting (SUW)																				
+DC	Document Checking	Status memerika document di CA 1 di sistem.	Underwriting (SUW)																				
+DE	Data Entry	Input data aplikasi oleh sales officer	Underwriting (SUW)																				
+Eskalasi		Kenaikan improvement.	Underwriting (SUW)																				
+FH	Functional Head	Fungsi jabatan di cabang ACC.	Underwriting (SUW)																				
+Honda Arista		Dealer non Astra untuk honda.	Sales																				
+Karya Zirang Utama		Dealer indirect untuk Isuzu.	Sales																				
+L5MV	Last five mont valid	Aplikasi yang valid selama lima bulan terakhir.	Underwriting (SUW)																				
+Mandiri Tunas Finance		Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+Maybank Finance		Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+Mitsui Leasing		Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+Mobil 88		Dealer direct untuk used car.	Sales																				
+NB	Naik Banding	Aplikasi yang di fight oleh Sales	Underwriting (SUW)																				
+Otto MultiArtha		Perusahaan kompetitor dalam pembiayaan mobil new dan used.	Sales																				
+Potong Atas		Diskon otr	Sales																				
+Potong Bawah		DP - Diskon	Sales																				
+Proper hand-over		Untuk karyawan baru dan jika karyawan yang lama berhalangan atau resign, semua masalah - masalah yang dihadapi sudah tercatat dan dapat dijadikan referensi bagi karyawan baru untuk memahami masalah yang ada.	HC IR																				
+SK Kemkumham	Surat Keterangan Kementrian hukum & Ham	Data yang dibutuhkan untuk aplikasi dari perusahaan.	Underwriting (SUW)																				
+SMART	Specific Measurable Agresive Relevant Time	Tools yang digunakan untuk membuat improvement.	HC LM																				
+TAF	Toyota Astra Finance	Anak perusahaan Astra bergerak dalam financial services yang menjadi kompetitor ACC.	Sales																				
+UC	Underwriting Cordinator	Salah satu jabatan di departemen underwriting.	Underwriting																				
+UWO	Underwriting Officer	Salah satu jabatan di departemen underwriting.	Underwriting																				
+Maping	Memetakan	Istilah yang dugunakan untuk memetakan departemen, bagian, perorangan, atau subjek tertentu dengan detail	umum																				
+Garda Medika	Asuransi Kesehatan Astra	Asuransi Kesehatan Astra	HC PCBM																				
+Resi E-KTP	Resi Elektronik Kartu Tanda Penduduk	Surat sementara pengganti E KTP	umum																				
+Cap Basah	Cap Basah	Stempel asli dari pejabat pemerintahan	umum																				
+KKB BCA	Kredit Kendaraan Bermotor Bank Central Asia	Kredit Kendaraan Bermotor Bank Central Asia	umum																				
+MTF	Mandiri Tunas Finance	Mandiri Tunas Finance	umum																				
+Astrido	Akita Prima Mobilindo	Dealer Indirect Toyota	umum																				
+OMA	OTO Multiartha	Leasing	umum																				
+Pivot	Pivot	Fitur Excel untuk menegelompokkan data tabel	umum																				
+Excoll	External Collector	Kolektor eksternal ACC	umum																				
+Pover	Prediksi Overdue	Prediksi keterlambatan bayar customer	Underwriting (SUW)																				
+E (Kategori unit multiguna)	E (Kategori unit multiguna)	Unit benar-benar bagus, fast moving	MULTIGUNA																				
+K (Kategori unit multiguna)	K (Kategori unit multiguna)	Untit menengah, pick up	MULTIGUNA																				
+O (Kategori unit multiguna)	O (Kategori unit multiguna)	Unit jelek, truck, double cabin	MULTIGUNA																				
+App. Log	Aplication Log	Proses aplikasi yang terekam sistem AOL	Underwriting (SUW)																				
+Badcust	Bad Customer	Customer dengan history pembayaran buruk	umum																				
+P/C	Personal / Company	Customer apakah peroranagan atau perusahaan, input aol	Underwriting (SUW)																				
+RO/AO	Repeat Order/Additional Order	Tombol pencarian history customer di sistem aol	umum																				
+Present Co	Present Company	Pekerjaan sekarang	Underwriting (SUW)																				
+Previous Co	Previous Company	Pekerjaan sebelumnya	Underwriting (SUW)																				
+Frek. Tolakan	Frekuensi Tolakan	Jumlah tolakan tarikan kliring (dalam) dan jumlah tolakan setoran kliring (luar)	Service																				
+Funding Co	Funding Company	Diisi dengan nama dokumen PT Crosselling - F5	Underwriting (SUW)																				
+KIMS	Kartu Ijin Menetap Sementara	Kartu Ijin Menetap Sementara, untuk WNA	Underwriting (SUW)																				
+BTM	Brand/Type/Mode	Merk, tipe, model	Underwriting																				
+B (Status Survey)	B (Status Survey)	Belum diorder ke surveyor lapangan	Underwriting																				
+C (Status Survey)	C (Status Survey)	Sudah diorder ke surveyor lapangan	Underwriting																				
+D (Status Survey)	D (Status Survey)	Hasil survey sudah dientry oleh base master	Underwriting																				
+P3	Pihak Ke 3	Pihak yang dijadikan tempat melarikan unit atau memindahkan unit yang dibiayai oleh ACC	AR																				
+TAF	Toyota Astra Finance	Competitor sekaligus saudara finser astra yang bermain di wilayah yang sama yaitu pembiayaan kendaraan di dealer AI TSO dan AI DSO	Sales																				
+Maybank		PT Bank Maybank Indonesia Tbk (“Maybank Indonesia” atau “Bank”) adalah salah satu bank swasta terkemuka di Indonesia yang merupakan bagian dari grup Malayan Banking Berhad (Maybank), salah satu  grup penyedia layanan keuangan terbesar di ASEAN	Sales																				
+WOM Finance	Wahana Ottomitra Multiartha	Anak Perusahaan dari Maybank yang bergerak di bidang pembiayaan kendaraan bermotor	Sales																				
+KKB BCA	Kredit Kendaraan Bermotor BCA	kredit kendaraan bermotor yang ditawarkan oleh BCA 	Sales																				
+MUF	Mandiri Utama Finance	Anak Perusahaan dari bank mandir yang berfokus di pembiayaan kendaraan bermotor	Sales																				
+MTF	Mandiri Tunas Finance 	Anak Perusahaan dari bank mandir yang berfokus di pembiayaan kendaraan bermotor	Sales																				
+Resign		Mengundurkan diri dari jabatan 	HC IR																				
+Batal DO	Batal Delivery Order	Konsumen melakukan pembatalan pembelian mobil	SALES																				
+SS	Sales Surpevisor	Sebagai tangan kanan Kepala cabang di Dealer yang langsung berhubungan dengan para sales kendaraan di dealer	SALES																				
+Aplikasi Daging		Aplikasi yang memiliki DP Besar, secara kapasitas cukup, dan secara nilai scoring memuaskan	Sales																				
+Aplikasi Tulang		Aplikasi dengan DP kecil, secara kapasitas meragukan dan biasanya nilai scoring nya kecil	Sales																				
+Excoll	External Collector	Remo external yang bekerja sama dengan acc dengan tujuan untuk mendapatkan unit secepatnya	AR																				
+SURO	Special unit recovery officer	Unit khusus yang diciptakan untuk membantu melakukan collection	AR																				
+Permata Bank		Bank yang bekerja sama dengan ACC terutama untuk pembayaran dengan autodebet	umum																				
+Adira Finance 	Adira dinamika multi finance	Perusahaan pembiayaan yang merupakan salah satu saingan ACC di lapangan	Sales																				
+BFI 	BFI Finance Indonesia 	Perusahaan pembiayaan yang merupakan salah satu saingan ACC di lapangan	sales																				
+Finser	Financial service	Unit usaha yang bergerak di bidang keuangan	umum																				
+mutasi jabatan		Perpindahan cabang yang di handle	HC TPM																				
+Taxi Online		usaha yang bergerak di transportasi secara online seperti grab, uber, dll	umum																				
+sumbagut	Sumatera bagian utara	daerah penanganan acc yang terletak di bagian utara sumatera	umum																				
+sumbagsel	sumatera bagian selatan	daerah penanganan acc yang terletak di bagian selatan sumatera	umum																				
+kremo	kredit memo	detail aplikasi kredit	Underwriting																				
+Jabar	jawa barat	Daerah penanganan ACC yang terletak di jawa barat	umum																				
+Jateng	Jawa tengah	Daerah penanganan ACC yang terletak di jawa tengah	umum																				
+Jatim	Jawa Timur	Daerah penanganan ACC yang terletak di jawa timur	umum																				
+SK Daging	Surat Kuasa Daging	SK yang konsumennya jelas alamatnya, unitnya terlihat, bukan p3	AR																				
+SK Tulang	Surat Kuasa Tulang	SK yang konsumennya tidak jelas alamatnya, unitnya tidak terlihat.	AR																				
+SK	Surat Kerja	Surat yang diberikan kepada collector intern kita (ARRO) untuk melakukan recovery unit	AR																				
+Koreksi absen		Hal yang dilakukan insan ACC ketika ada sesuatu yang menghalangi dia untuk melakukan absen tepat waktu	HC PCBM																				
+Retur		Istilah untuk kegagalan pengiriman copy contract ke customer	Underwriting																				
+Reprint		Proses penambahan data-data baru dan pemberian header nomer kontrak pada dokumen kontrak setelah menerima PO dan tagihan dari dealer	Underwriting																				
+Resign		Proses pemutusan hubungan kerja yang dilakukan karyawan	HC TPM																				
+SPKH	Surat Perjanjian Ketaatan Hukum	Suatu surat perjanjian antara ACC dan Customer serta pihak-pihak terkait yang menyatakan bahwa selama masa pembiayaan, customer wajib menaati semua peraturan yang dibuat dan disetujui secara hukum oleh customer dan ACC	Underwriting																				
+BOD	Board of Director	Jajaran Direktur ACC	HC OD																				
+Outsource		SDM ACC yang didapatkan melalui rekomendasi vendor luar	HC OD																				
+CA 2	Credit Admin 2	Officer pada departemen Underwriting yang bertugas dalam pengurusan fidusia	Underwriting																				
+C1	Character	Kode penulisan di hasil survey untuk menunjukkan adanya hal yang harus diperhatikan atau dipertimbangkan lebih pada karakter customer	Underwriting																				
+C2	Capacity	Kode penulisan di hasil survey untuk menunjukkan adanya hal yang harus diperhatikan atau dipertimbangkan lebih pada kapasitas customer	Underwriting																				
+C3	Capital	Kode penulisan di hasil survey untuk menunjukkan adanya hal yang harus diperhatikan atau dipertimbangkan lebih pada aset customer	Underwriting																				
+C4	Condition	Kode penulisan di hasil survey untuk menunjukkan adanya hal yang harus diperhatikan atau dipertimbangkan lebih pada kondisi eksternal yang dapat mempengaruhi customer	Underwriting																				
+C5	Collateral	Kode penulisan di hasil survey untuk menunjukkan adanya hal yang harus diperhatikan atau dipertimbangkan lebih pada jaminan customer	Underwriting																				
+Feedback		Proses evaluasi yang dilakukan oleh mentor dan peserta program setelah selesai melalui suatu tahap program	HC OD																				
+SAP	Satria Antaran Prima	Salah satu perusahaan ekspedisi yang menjadi mitra ACC	HC OD																				
+Splitting		Proses pemisahan dokumen kontrak berdasarkan fungsinya	Underwriting																				
+F9PD++		Merupakan account yang overdue dibawah 30 hari namun telah mendapat flag kompre dikarenakan statusnya INV	Underwriting																				
+MC	Meet Customer	Kode penulisan hasil survey yang menandakan surveyor bertemu dengan customer	Underwriting																				
+C&C	Couching & Clinic	Tools improvement pada departement-department yang ada di ACC	Underwriting																				
+LB	Luas Bangunan	Kode penulisan pada cremo untuk menyatakan luas bangunan rumah customer	Underwriting																				
+LT	Luas Tanah	Kode penulisan pada cremo untuk menyatakan luas tanah rumah customer	Underwriting																				
+LT	Lama Tinggal	Kode penulisan pada cremi untuk menyatakan lama tinggal customer	Underwriting																				
+Appl log		Suatu data set pada AOL yang memberikan keterangan proses demi proses yang telah dilalui oleh suatu aplikasi dengan detail waktunya	Underwriting																				
+State		Suatu kolom pada appl log yang menyatakan tahap yang dilalui suatu aplikasi	Underwriting																				
+D	Done	Kode pada hasil survey disistem yang menyatakan proses survey untuk suatu order survey telah selesai dilakukan	Underwriting																				
+C	Close	Kode pada hasil survey disistem yang menyatakan proses survey untuk suatu order survey belum/sedang dilakukan	Underwriting																				
+Balancing Survey		Proses membagi bucket order survey kepada para surveyor jika didapati kejadian khusus seperti salah satu surveyor sedang tidak bertugas	Surveyor																				
+SJM	Setia Jaya Mobilindo	Salah satu dealer indirect rekanan ACC	Marketing																				
+Kategori I		Segala kendaraan dengan GVW s/d 5 ton	RISK MIS																				
+Kategori II		Segala jenis truck yang memiliki GVW 5 s/d 10 ton	RISK MIS																				
+Kategori III		Segala jenis angkutan yang memiliki GVW 10 s/d 24 ton dan HP 215 s/d 260 PS	RISK MIS																				
+Kategori IV		Segala jenis mobil barang dengan GVW s/d 5 ton dengan roda penggerak 4x4	RISK MIS																				
+Kategori V		Segala jenis angkutan yang memiliki GVW diatas 24 ton dengan HP  diatas 330 PS	RISK MIS																				
+Comprehensive 		Asuransi kendaraan kombinasi antara All risk dengan Total Lost Only (TLO)	SALES																				
+TLO 	Total Lost Only 	Pertanggungan kerugian untuk unit hilang 	SALES																				
+GMPU 	Grandmax Pick Up 	Pertanggungan kerugian untuk unit rusak 	umum																				
+IF 	Inventory Financing 	Kerjasama antara Showroom (used car) dengan ACC dengan cara ACC membiayai Showroom untuk 1 unit obil dan harus menahan BPKB	SALES																				
+Mapping 		Proses untuk mengetahui flow kerja suatu fungsi di perusahaan 	HC OD																				
+Ocean 		Kondisi persaingan bisnis suatu perusahaan 	SALES																				
+Blue Ocean 		Tidak ada persaingan bisnis pada bidang yang sama 	SALES																				
+Purple Ocean 		persaingan bisnis sedang 	SALES																				
+Red Ocean 		persaingan bisnis sangat ketat 	SALES																				
+Dealer Aktif 		Istilah untuk showroom used car yang aktif terus memberikan kontribusi ke ACC 	SALES																				
+DP Gross 	istilah untuk used car 	total Down Payment yang harus dibayarkan 	SALES																				
+Manpower 		Untuk menggantikan istilah Tenaga Kerja 	HC OD																				
+BTMK 	Brand Type Merk Kind 	Approval aplikasi used car berdasarkan brand. Kind adalah : jenisnya misal sedan, minibus atau jeep. 	SALES																				
+Juklak 		Sebuah panduan tentang suatu produk (guidance). Misal Juklak Paket Mantap (artinya 	SALES																				
+Base Master 		Pusat data untuk bucket survey 	Underwriting																				
+L5MV 	Last 5 Month Valid 	data penjualan 5 bulan terakhir 	Underwriting																				
+YTD 	Year To Date 	Data pada tanggal dan bulan yang sama di tahun sebelumnya. 	Underwriting																				
+APPI 	Asosiasi Perusahaan Pembiayaan Indonesia 	Sebuah Asosiasi yang menaungi beberapa perusahaan pembiayaan seluruh indonesia	SALES																				
+Cluster		Pembagian wilayah handling showroom used car berdasarkan wilayah tertentu 	SALES																				
+TTS 	Time to Survey 	batas waktu untuk melakukan dan memberikan keputusan terkait order survey dari sales	Surveyor																				
+CSI Index 		Indeks kepuasan customer 	Service																				
+MOT 	Moment of Truth 	Moment ketika berinteraksi dengan customer secara lansgung dan memeproleh fata atau data langsung dari customer 	Service																				
+Competitor Benchmark 		melakukan analisa perbandingan product dan price dari perusahaan pembiayaan lain (Kompetitor)	Marketing																				
+Dealer Platinum 		Istilah untuk showroom used car yang berkontribusi >=15 unit tiap bulan 	SALES																				
+Dealer gold 		Istilah untuk showroom used car yang berkontribusi 10 - 14 unit tiap bulan 	SALES																				
+Dealer On Off 		Status dealer untuk used car dilihat dari kontribusi ke ACC tiap tiga bulan ( contoh Bulan Maret 1 unit - April  0 unit - Mei 1 unit)	SALES																				
+Trade In 	Istilah untuk metode Balloon payment	unit yang belum lunas tetapi dijual dan harga jual mobil tersebut digunakan untuk menutup hutang kredit, dan sisanya untuk DP unit yang baru 	SALES																				
+Passenger Car 		Unit yang diperuntukkan untuk pribadi (mobilitas pribadi) 	umum																				
+Commercial Car 		Unit diperuntukkan usaha 	umum																				
+Cash Flow 		istilah untuk customer yang mengalami overdue (telat bayar) dengan alasan kondisi keuangan yang hanya bisa membayar pada tanggal tertentu setiap bulannya	AR																				
+Document Printing 		proses cetak kontrak yang dilakukan setelah mendapat approval dari dua level atau lebih dimana sebelum mendapat persetujuan commite credit, data tidak akan mengalir ke state DP	Underwriting																				
+Bast Date		kolom doc receive & go live yang diisi dengan tanggal BAST/DO Delear	Underwriting																				
+Billing Date		kolom doc receive & go live yang diisi dengan valid seluruh dokumen lengkap dan benar	Underwriting																				
+Instalment Due Date		kolom doc receive & go live  yang diisi dengan tanggal jatuh tempo Angsuran Pertama	Underwriting																				
+Agreement Sign Place		kolom doc receive & go live  yang diisi dengan tempat pendandatanganan kontrak	Underwriting																				
+To Be Pay by Cust.		perincian DP + Ammount Installment	Underwriting																				
+State		Jenjang Dokumen	umum																				
+P		Jenis Customer perorangan	umum																				
+U		Jenis Customer Badan Usaha/ Company	umum																				
+ID Card Borrower		entry data borrower berdasarkan KTP Borrower	Underwriting																				
+M (Marital Status)		Marital Status Menikah	Sales ( SUW)																				
+s (Marital Status)		marital status duda	Sales ( SUW)																				
+W (Marital Status)		Marital Status Janda	Sales ( SUW)																				
+U (Marital Status)		Marital Status Lajang	Sales ( SUW)																				
+JOB CODE		kode pekerjaan yang harus diisi dengan memilih f5 pada Borrower- Personal Data Entry	Sales ( SUW)																				
+Mailing Addr		Alamat surat menyurat ( R: Residence, O: Office)	Underwriting																				
+Type Usage		kegunaan atau tujuan pemakaian kendaraan	Underwriting																				
+CA	Cover Amount	Harga OTR yang mengcover jumlah pertanggungan asuransi	Underwriting																				
+Base Master		bagian udw untuk order survey	Underwriting																				
+Date Expired		kolom ENTRY BPKB yang diisi dengan tanggal akhir masa berlaku STNK	Underwriting																				
+BMTK	Brand Merk Type Kind		sales																				
+platinum dealer		showroom used car yang memberikan kontribusi ke ACC > 15 Mobil 	sales																				
+KIMS	Kartu Ijin Menetap Sementara	data yang diperlukan jika cust WNA	Underwriting																				
+Survey Result Entry		menu AOL Surveyor yang berguna untuk menginput hasil survey oleh surveyor	Surveyor																				
+B (state survey)		Belum melakukan order survey	Surveyor																				
+C (State survey)		Sudah order survey	Surveyor																				
+D (State Survey)		Hasil survey sudah diinput	Surveyor																				
+GMPU	Grand Max Pick Up	salah satu type mobil daihatsu	sales																				
+Yearly Insurance		Cover Asuransi dalam Tahun	sales																				
+Admin Fee		Biaya Admin yang dibayarkan oleh cust.	sales																				
+SARHO	Senior ARHO		AR																				
+JARHO	Junior ARHO		AR																				
+Derek		Situasi yang terjadi apabila ada proses penarikan dan cust tidak mau menyerahkan kunci atau mobil tidak bisa digunakan	AR																				
+Present Co	Present Company	Perusahaan tempat cust bekerja diwaktu berjalan	AR																				
+TTS	Tanda Terima Sementara	Kwitansi yang dibawa oleh ARHO saat melakukan kunjungan 	AR																				
+NIK	Nomor Induk Karyawan		umum																				
+KTP	Kartu Tanda Penduduk	Salah satu persyaratan pengajuan kredit	umum																				
+KK	Kartu Keluarga	Salah satu persyaratan pengajuan kredit	umum																				
+Cust	Customer	Semua pihak yang mengajukan kredit	umum																				
+Autodebit		Penarikan uang online secara otomatis	umum																				
+Direct Payment		Pembayaran secara langsung	umum																				
+Walk-in		Cust melakukan pembayaran langsung ke kantor	Service																				
+Ramayana		salah satu asuransi	Underwriting																				
+Kode Pos			umum																				
+CD COND		kode kondisi yang ada di menu AOL MASTER	AOL COLL Menu																				
+BET	Between	diantara	AOL COLL Menu																				
+EQU	Equal	sama dengan	AOL COLL Menu																				
+GTE	Greater or equal	lebih besar atau sama dengan	AOL COLL Menu																				
+NBE	Not between	bukan diantara	AOL COLL Menu																				
+NE	Not equal	tidak sama dengan	AOL COLL Menu																				
+Parent Group		kode grup kerja (KODE WORKGROUP). Tekan F5/double click untuk menampilkan tabel bantuan	AOL COLL Menu																				
+Level		merupakan level dari workgroup, makin besar angkanya makin rendah levelnya	AOL COLL Menu																				
+Component Details		Berisi detail aksesoris dan kelengkapan mobil beserta kondisinya	AOL COLL Menu																				
+Query Surat Tugas		untuk melihat daftar surat tugas penarikan (internal) yang telah dikeluarkan oleh koordinator	AOL COLL Menu																				
+Query Surat Kuasa		untuk melihat daftar surat kuasa penarikan (PEOJF) yang telah dikeluarkan oleh PAO untuk periode tertentu	AOL COLL Menu																				
+REPA	Reposses Action	Cust yang bermasalah dan sedang dalam penanganan	AOL COLL Menu																				
+Notepad		berisi history penanganan tambahan dari collector dan coordinator	AOL COLL Menu																				
+Detail Asset		berisi data kendaraan dan asuransi customer	AOL COLL Menu																				
+Detail Kontrak		berisi data kontrak	AOL COLL Menu																				
+Time Action		tanggal dan jam kapan suatu kontrak masuk ke bucket officer	AOL COLL Menu																				
+Size dealer - Mega		Kategori dealer used car yang stock mobil bekasnya lebih dari sama dengan 25 unit	Sales																				
+Size dealer - Big		Kategori dealer used car yang stock mobil bekasnya antara 15 sampai 24 unit	Sales																				
+Size dealer - Medium		Kategori dealer used car yang stock mobil bekasnya antara 7 sampai 14 unit	Sales																				
+Size dealer - Small		Kategori dealer used car yang stock mobil bekasnya antara 1 sampai 6 unit	Sales																				
+Cash in Transit		Angsuran yang dititipkan di brankas ARMH direkap di dalam bentuk excel setiap kali ada penitipan dan ditandatangani oleh ARMH-ARHH	AR																				
+ADM	Astra Daihatsu Motor	Agen tunggal mobil Daihatsu di Indonesia	umum																				
+Profit		Selisih bunga dan Cost of Fund	Sales																				
+IBID-Balai Lelang Serasi		Balai lelang kendaraan bekas (motor, mobil, alat berat) yang merupakan anak perusahaan PT. Serasi Autoraya	AR																				
+Debitor		Pihak penerima fasilitas pembiayaan ACC	umum																				
+Deskcoll 31-90		Aktivitas reminder account overdue 31-90 by phone	AR																				
+Deskcoll POWO		Aktivitas reminder account overdue saldo kecil (20-30 Juta)	AR																				
+Field Visit Tracker		ARHH tandem kunjungan penagihan dengan ARHO	AR																				
+Account Handling ARHO		Jumlah customer di dalam bucket ARHO (8-30 hari)	AR																				
+Account Handling ARRO		Jumlah customer di dalam bucket ARRO (31-60 hari)	AR																				
+BT	Biaya Tarik	Biaya yang dikeluarkan untuk PEOJF mengeksekusi unit	AR	Penentuan BT berdasarkan kasus dengan melihat Collection Details																			
+Metode Dial		Pilihan metode reminding account overdue by phone, terbagi menjadi tiga yaitu Manual, Semi Automatic, & Predictive Dials	AR																				
+Manual Dial		Metode Dial yang dilakukan DC Agent untuk reminding account overdue dengan menekan sendiri nomor telepon yang dituju	AR																				
+Simulasi Denda		Menu simulasi perhitungan denda pada sistem cust. Service yang digunakan untuk menghitung jumlah angsuran & denda yang harus dibayar per tanggal tertentu	Service																				
+Authorize by Coordinator		Menu otorisasi oleh koordinator	AR																				
+Repossesion Action		Otorisasi oleh koordinator untuk membuat Surat Tarik	AR																				
+PDC Details		Menu pada AOL yang berisikan data PDC Customer saat ada pembayaran dengan PDC	Service																				
+Simulasi Prepayment		Menu simulasi perhitungan prepayment saat customer hendak melakukan percepatan pelunasan dan meminta jumlah yang harus dibayar per tanggal tertentu	Service																				
+Inventory Calc. & Posting		Menu AOL yang berfungsi untuk melakukan entri perhitungan inventori unit tarikan	AR																				
+Deskcoll Agent		Officer-officer yang bertugas melakukan reminding terhadap account overdue by phone	AR																				
+Broken Promise		Janji Bayar yang meleset	AR																				
+Reposses Letter		Surat Tarik yang telah diotorisasi oleh ARMH	AR																				
+Detail Pelanggan		Menu pada AOL yang berisikan data customer (KTP, alamat rumah, alamat kantor)	umum																				
+Ormas		Organisasi Masyarakat yang dibentuk secara sukarela oleh masyarakat atas kesamaan kebutuhan dan tujuan	umum																				
+KM saat ditarik		Total kilometer unit saat ditarik dari customer	AR																				
+KM saat di Pool		Total kilometer unit saat unit sudah berada di pool	AR																				
+Buku KIR		Hasil dari pemeriksaan bagian-bagian kendaraan bermotor guna memenuhi syarat teknis dan layak jalan. Buku KIR merupakan salah satu kelengkapan yang harus dipenuhi saat unit mobil penumpang ditarik ke pool. Contoh: Gran Max	AR																				
+Target 		Persentase (%)ataupun ammount (Juta/M) account-account overdue yang boleh tersisa/tidak terselesaikan pada saat Closing	AR																				
+Payment Channel		Cara pembayaran angsuran ACC, terdiri dari Tunai, ATM, Mobile Banking, Internet Banking, Auto Debet Permata, Kantor Pos, Alfamart, Giro/PDC	Service																				
+

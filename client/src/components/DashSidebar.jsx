@@ -6,6 +6,7 @@ import {
   HiOutlineUserGroup,
   HiAnnotation,
   HiChartPie,
+  HiOutlineAnnotation
 } from 'react-icons/hi';
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
@@ -65,6 +66,25 @@ export default function DashSidebar() {
             >
               Profile
             </Sidebar.Item>
+            </Link>
+            <Link to='/dashboard?tab=tanya'>
+                <Sidebar.Item
+                  active={tab === 'tanya'}
+                  icon={HiOutlineAnnotation}
+                  as='div'
+                >
+                  Tanya
+                </Sidebar.Item>
+              <Link to='/dashboard?tab=assistant'>
+              <Sidebar.Item
+                active={tab === 'assistant'}
+                icon={HiOutlineAnnotation}
+                as='div'
+              >
+                Asisstant
+              </Sidebar.Item>
+              </Link>
+
           </Link>
           {currentUser.isAdmin && (
             <Link to='/dashboard?tab=posts'>
@@ -86,6 +106,15 @@ export default function DashSidebar() {
                   as='div'
                 >
                   Users
+                </Sidebar.Item>
+              </Link>
+              <Link to='/dashboard?tab=tanya'>
+                <Sidebar.Item
+                  active={tab === 'tanya'}
+                  icon={HiOutlineUserGroup}
+                  as='div'
+                >
+                  Tanya
                 </Sidebar.Item>
               </Link>
               <Link to='/dashboard?tab=comments'>

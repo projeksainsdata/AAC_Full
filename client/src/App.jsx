@@ -15,6 +15,7 @@ import PostPage from './pages/PostPage';
 import ScrollToTop from './components/ScrollToTop';
 import Search from './pages/Search';
 import Tanya from './pages/Tanya';
+import Chat from './pages/Chat';
 
 export default function App() {
   return (
@@ -29,6 +30,8 @@ export default function App() {
         <Route path='/search' element={<Search />} />
         <Route element={<PrivateRoute />}>
           <Route path='/dashboard' element={<Dashboard />} />
+          <Route path='/tanya' element={<Tanya />} />
+          <Route path='/asisstant' element={<Chat />} />
         </Route>
         <Route element={<OnlyAdminPrivateRoute />}>
           <Route path='/create-post' element={<CreatePost />} />
@@ -36,10 +39,8 @@ export default function App() {
         </Route>
 
         <Route path='/projects' element={<Projects />} />
-        <Route path='/tanya' element={<Tanya />} />
         <Route path='/post/:postSlug' element={<PostPage />} />
       </Routes>
-      <Footer />
     </BrowserRouter>
   );
 }

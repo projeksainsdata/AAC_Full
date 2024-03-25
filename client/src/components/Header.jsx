@@ -51,6 +51,12 @@ export default function Header() {
 
   return (
     <Navbar className='border-b-2'>
+      <Link
+        to='/'
+        className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'
+      >
+        <img src="/logo_ai-01.png" alt="Logo" width="60" height="60" />
+      </Link>
       <form onSubmit={handleSubmit} className='flex'>
         <TextInput
           type='text'
@@ -64,14 +70,7 @@ export default function Header() {
           <AiOutlineSearch />
         </Button>
       </form>
-      <Link
-        to='/'
-        className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'
-      >
-        <span className='px-2 py-1 bg-gradient-to-r from-green-400 via-teal-500 to-purple-500 rounded-lg text-white'>
-          Jaringan ODHA Berdaya
-        </span>
-      </Link>
+
       <div className='flex gap-2 md:order-2'>
         <Button
           className='w-12 h-10 hidden sm:inline'
@@ -116,12 +115,6 @@ export default function Header() {
         </Navbar.Link>
         <Navbar.Link active={path === '/about'} as={'div'}>
           <Link to='/about'>Tentang Kami</Link>
-        </Navbar.Link>
-        <Navbar.Link active={path === '/projects'} as={'div'}>
-          <Link to='/projects'>Kegiatan</Link>
-        </Navbar.Link>
-        <Navbar.Link active={path === '/tanya'} as={'div'}>
-          <Link to='/tanya'>Tanya Kami</Link>
         </Navbar.Link>
       </Navbar.Collapse>
     </Navbar>
