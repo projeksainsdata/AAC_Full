@@ -44,7 +44,7 @@ export default function SignUp() {
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
             <span className='text-dark text-3xl'>
-              Jaringan ODHA Berdaya
+             Asisten Account Receivable Management
             </span>
 
           </Link>
