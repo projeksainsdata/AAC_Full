@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import ChatBubble from "../components/ChatBubble";
 import ChatInput from "../components/ChatInput";
 
+const port = process.env.PORT || 3000;
+
 const Chat = () => {
     const [prompt, updatePrompt] = useState("");
     const [loading, setLoading] = useState(false);
@@ -20,7 +22,7 @@ const Chat = () => {
   
     const fetchThread = async () => {
       try {
-        const res = await fetch("http://localhost:3000/thread", {
+        const res = await fetch("/thread", {
           method: "GET",
           headers: {
             Accept: "application/json",
@@ -43,7 +45,7 @@ const Chat = () => {
   
       try {
         setLoading(true);
-        const res = await fetch("http://localhost:3000/message", {
+        const res = await fetch("/message", {
           method: "POST",
           headers: {
             Accept: "application/json",
